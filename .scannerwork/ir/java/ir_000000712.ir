@@ -1,0 +1,20 @@
+
+";"java.lang.String!this
+½ ½("domain.Ride"¿@
+>
+
+¾	 ¾("#get-field# rideNumber:Bjava.lang.Integer9
+7
+
+¾ ¾( "#get-field# from:Bjava.lang.String7
+5
+
+¾% ¾('"#get-field# to:Bjava.lang.String7
+5
+
+¾, ¾(0"#get-field# date:Bjava.util.Date<
+:
+
+¾	 ¾(0"	#binop +#2+:Bjava.lang.String
+
+¾ ¾(1*B/home/lur/eclipse-workspace/Rides24/src/main/java/domain/Ride.java

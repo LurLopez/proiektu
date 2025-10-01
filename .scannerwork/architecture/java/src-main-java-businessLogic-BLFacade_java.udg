@@ -1,0 +1,1485 @@
+
+1.0lurlopez_proiektuJavaFrontend"1758904449394*java2.BÌ+
+.
+)src/main/java/businessLogic/BLFacade.java2
+	
+type3
+	
+MAIN4
+
+package6
+
+businessLogic7
+
+businessLogic.BLFacade9
+
+	interface10
+
+access11
+
+public12
+
+simple-name13
+
+BLFacade14
+
+
+WebService16
+
+unknown17
+
+annotated by18
+(
+"Recovered#typeBindingLWebService;020
+
+
+uses21
+>
+8businessLogic.BLFacade#getDepartCities()Ljava/util/List;23
+
+method24
+
+getDepartCities25
+
+	WebMethod27
+'
+!Recovered#typeBindingLWebMethod;029
+U
+ObusinessLogic.BLFacade#getDestinationCities(Ljava/lang/String;)Ljava/util/List;31
+
+getDestinationCities32
+w
+qbusinessLogic.BLFacade#createRide(Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;IFLjava/lang/String;)LRide;34
+
+
+createRide35
+
+
+Ride37
+
+returns38
+2
+,exceptions.RideMustBeLaterThanTodayException40
+*
+$exceptions.RideAlreadyExistException42
+k
+ebusinessLogic.BLFacade#getRides(Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;)Ljava/util/List;44
+
+getRides45
+"
+Recovered#typeBindingLRide;047
+}
+wbusinessLogic.BLFacade#getThisMonthDatesWithRides(Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;)Ljava/util/List;49
+ 
+getThisMonthDatesWithRides50
+,
+&businessLogic.BLFacade#initializeBD()V52
+
+initializeBD53
+|
+vbusinessLogic.BLFacade#register(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ldomain/User;55
+
+register56
+
+domain.User58
+U
+ObusinessLogic.BLFacade#login(Ljava/lang/String;Ljava/lang/String;)Ldomain/User;60
+
+login61
+8
+2businessLogic.BLFacade#diruaSartu(FLdomain/User;)F63
+
+
+diruaSartu64
+
+	has param65
+
+is type66
+:
+4businessLogic.BLFacade#diruaAtera(FLdomain/Driver;)F68
+
+
+diruaAtera69
+
+domain.Driver71
+D
+>businessLogic.BLFacade#bidaiaErreserbatu(ILdomain/Traveler;F)V73
+
+bidaiaErreserbatu74
+
+domain.Traveler76
+;
+5businessLogic.BLFacade#EskaeraList(I)Ljava/util/List;78
+
+EskaeraList79
+
+domain.Erreserba81
+0
+*businessLogic.BLFacade#ErreserbaOnartu(I)V83
+
+ErreserbaOnartu84
+3
+-businessLogic.BLFacade#EskaeraDeuseztatu(II)V86
+
+EskaeraDeuseztatu87
+;
+5businessLogic.BLFacade#LibreDaudenEserlekuKopurua(I)I89
+ 
+LibreDaudenEserlekuKopurua90
+6
+0businessLogic.BLFacade#ErreserbarenRideKodea(I)I92
+
+ErreserbarenRideKodea93
+r
+lbusinessLogic.BLFacade#KotxeaGehitu(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;ILdomain/Driver;)Z95
+
+KotxeaGehitu96
+N
+HbusinessLogic.BLFacade#ErabiltzaileaFreskatu(Ldomain/User;)Ldomain/User;98
+
+ErabiltzaileaFreskatu99
+A
+:businessLogic.BLFacade#BidaiaKantzelatu(ILdomain/Driver;)V101
+
+BidaiaKantzelatu102
+0
+)businessLogic.BLFacade#ErreserbaKendu(I)V104
+
+ErreserbaKendu105
+[
+TbusinessLogic.BLFacade#GetTravelerBatenErreserbak(Ldomain/Traveler;)Ljava/util/List;107
+!
+GetTravelerBatenErreserbak108
+B
+;businessLogic.BLFacade#erreserbaBilatu(I)Ldomain/Erreserba;110
+
+erreserbaBilatu111
+F
+?businessLogic.BLFacade#gidariaBilatuBidaiKode(I)Ldomain/Driver;113
+
+gidariaBilatuBidaiKode114
+=
+6businessLogic.BLFacade#bilatuBidaiaKodearekin(I)LRide;116
+
+bilatuBidaiaKodearekin117
+L
+EbusinessLogic.BLFacade#MugimenduaGehitu(Ldomain/User;FI)Ldomain/User;119
+
+MugimenduaGehitu120
+X
+QbusinessLogic.BLFacade#GetTravelerBatenAlertak(Ldomain/Traveler;)Ljava/util/List;122
+
+GetTravelerBatenAlertak123
+
+domain.Alerta125
+q
+jbusinessLogic.BLFacade#AlertaSortu(Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;Ldomain/Traveler;)Z127
+
+AlertaSortu128
+T
+MbusinessLogic.BLFacade#GetAlertaBatenBidaiak(Ldomain/Alerta;)Ljava/util/List;130
+
+GetAlertaBatenBidaiak131
+C
+<businessLogic.BLFacade#alertakKonprobatu(Ldomain/Traveler;)Z133
+
+alertakKonprobatu134
+F
+?businessLogic.BLFacade#zenbatBidaiAlertetan(Ldomain/Traveler;)I136
+
+zenbatBidaiAlertetan137
+o
+hbusinessLogic.BLFacade#balorazioaSortu(Ljava/lang/String;ILdomain/User;Ldomain/User;)Ldomain/Balorazioa;139
+
+balorazioaSortu140
+
+domain.Balorazioa142
+å
+ÑbusinessLogic.BLFacade#ErreklamazioaSortu(Ljava/lang/String;Ljava/lang/String;Ldomain/User;Ldomain/User;LRide;)Ldomain/Erreklamazio;144
+
+ErreklamazioaSortu145
+
+domain.Erreklamazio147
+J
+CbusinessLogic.BLFacade#ErreklamazioakKargatu()Ljava/util/ArrayList;149
+
+ErreklamazioakKargatu150
+c
+\businessLogic.BLFacade#ErreklamazioakKargatuErabiltzaile(Ldomain/User;)Ljava/util/ArrayList;152
+(
+!ErreklamazioakKargatuErabiltzaile153
+m
+fbusinessLogic.BLFacade#MezuaGehitu(Ldomain/User;Ldomain/User;Ljava/lang/String;Ldomain/Erreklamazio;)V155
+
+MezuaGehitu156
+J
+CbusinessLogic.BLFacade#ErreklamazioaEzabatu(Ldomain/Erreklamazio;)V158
+
+ErreklamazioaEzabatu159
+F
+?businessLogic.BLFacade#getUser(Ljava/lang/String;)Ldomain/User;161
+
+getUser162
+B
+;businessLogic.BLFacade#erabiltzaileaEzabatu(Ldomain/User;)V164
+
+erabiltzaileaEzabatu165
+J
+CbusinessLogic.BLFacade#bidaiBatenErreserbak(LRide;)Ljava/util/List;167
+
+bidaiBatenErreserbak168
+R
+KbusinessLogic.BLFacade#erabiltzaileaBilatu(Ljava/lang/String;)Ldomain/User;170
+
+erabiltzaileaBilatu171
+T
+MbusinessLogic.BLFacade#balorazioakKargatu(Ldomain/User;)Ljava/util/ArrayList;173
+
+balorazioakKargatu174
+2
++businessLogic.BLFacade#travelerBaloratu(I)V176
+
+travelerBaloratu177
+0
+)businessLogic.BLFacade#driverBaloratu(I)V179
+
+driverBaloratu180
+5
+.businessLogic.BLFacade#isTravelerBaloratua(I)Z182
+
+isTravelerBaloratua183
+3
+,businessLogic.BLFacade#isDriverBaloratua(I)Z185
+
+isDriverBaloratua186
+2
++businessLogic.BLFacade#getErreklamatuta(I)Z188
+
+getErreklamatuta189
+2
++businessLogic.BLFacade#setErreklamatuta(I)V191
+
+setErreklamatuta192J
+
+1
+12
+
+
+3
+4Z
+
+5	
+576j›
+A
+30;
+303124 *
+1+ +(28:5B
+
+
+11
+12
+
+
+13
+32
+G
+151@
+15115224 *
+1é é(28:5B
+
+
+11
+12
+
+13
+153
+A
+77;
+777824 *
+1b b(28:5B
+
+
+11
+12
+
+
+13
+79
+
+146
+14614717
+E
+112>
+11211324 *
+1x x(28:5B
+
+
+11
+12
+
+13
+114
+G
+135@
+13513624 *
+1Ü Ü(28:5B
+
+
+11
+12
+
+13
+137
+A
+33;
+333424 *
+1; ;(28:5B
+
+
+11
+12
+
+
+13
+35
+;
+86
+8910 *
+1 (:5B
+
+
+11
+12
+
+
+13
+14
+G
+157@
+15715824 *
+1ì ì(28:5B
+
+
+11
+12
+
+13
+159
+A
+48;
+484924 *
+1P P(28:5B
+
+
+11
+12
+
+
+13
+50
+G
+129@
+12913024 *
+1Ç Ç(28:5B
+
+
+11
+12
+
+13
+131
+A
+22;
+222324 *
+1# #(28:5B
+
+
+11
+12
+
+
+13
+25
+
+80
+808117
+G
+138@
+13813924 *
+1à à(28:5B
+
+
+11
+12
+
+13
+140
+
+41
+414217
+A
+97;
+979824 *
+1n n(28:5B
+
+
+11
+12
+
+
+13
+99
+
+57
+575817
+
+124
+12412517
+G
+169@
+16917024 *
+1õ õ(28:5B
+
+
+11
+12
+
+13
+171
+E
+121>
+12112224 *
+1~ ~(28:5B
+
+
+11
+12
+
+13
+123
+
+70
+707117
+A
+54;
+545524 *
+1X X(28:5B
+
+
+11
+12
+
+
+13
+56
+A
+59;
+596024 *
+1Z Z(28:5B
+
+
+11
+12
+
+
+13
+61
+G
+178@
+17817924 *
+1° °(28:5B
+
+
+11
+12
+
+13
+180
+A
+85;
+858624 *
+1f f(28:5B
+
+
+11
+12
+
+
+13
+87
+A
+82;
+828324 *
+1d d(28:5B
+
+
+11
+12
+
+
+13
+84
+E
+100>
+10010124 *
+1p p(28:5B
+
+
+11
+12
+
+13
+102
+G
+160@
+16016124 *
+1ï ï(28:5B
+
+
+11
+12
+
+13
+162
+
+36
+363717
+G
+148@
+14814924 *
+1å å(28:5B
+
+
+11
+12
+
+13
+150
+A
+51;
+515224 *
+1V V(28:5B
+
+
+11
+12
+
+
+13
+53
+
+15
+151617
+E
+103>
+10310424 *
+1r r(28:5B
+
+
+11
+12
+
+13
+105
+
+28
+282917
+G
+187@
+18718824 *
+1ß ß(28:5B
+
+
+11
+12
+
+13
+189
+
+19
+192017
+
+26
+262717
+G
+132@
+13213324 *
+1Ñ Ñ(28:5B
+
+
+11
+12
+
+13
+134
+E
+106>
+10610724 *
+1t t(28:5B
+
+
+11
+12
+
+13
+108
+E
+109>
+10911024 *
+1v v(28:5B
+
+
+11
+12
+
+13
+111
+G
+175@
+17517624 *
+1ü ü(28:5B
+
+
+11
+12
+
+13
+177
+A
+72;
+727324 *
+1` `(28:5B
+
+
+11
+12
+
+
+13
+74
+
+46
+464717
+G
+163@
+16316424 *
+1ó ó(28:5B
+
+
+11
+12
+
+13
+165
+G
+154@
+15415524 *
+1ë ë(28:5B
+
+
+11
+12
+
+13
+156
+A
+62;
+626324 *
+1\ \(28:5B
+
+
+11
+12
+
+
+13
+64
+G
+190@
+19019124 *
+1© ©(28:5B
+
+
+11
+12
+
+13
+192
+A
+94;
+949524 *
+1l l(28:5B
+
+
+11
+12
+
+
+13
+96
+
+39
+394017
+E
+118>
+11811924 *
+1| |(28:5B
+
+
+11
+12
+
+13
+120
+A
+43;
+434424 *
+1G G(28:5B
+
+
+11
+12
+
+
+13
+45
+A
+91;
+919224 *
+1j j(28:5B
+
+
+11
+12
+
+
+13
+93
+G
+166@
+16616724 *
+1ô ô(28:5B
+
+
+11
+12
+
+13
+168
+
+75
+757617
+G
+143@
+14314424 *
+1ä ä(28:5B
+
+
+11
+12
+
+13
+145
+G
+172@
+17217324 *
+1ù ù(28:5B
+
+
+11
+12
+
+13
+174
+G
+184@
+18418524 *
+1• •(28:5B
+
+
+11
+12
+
+13
+186
+A
+67;
+676824 *
+1^ ^(28:5B
+
+
+11
+12
+
+
+13
+69
+G
+181@
+18118224 *
+1£ £(28:5B
+
+
+11
+12
+
+13
+183
+E
+115>
+11511624 *
+1z z(28:5B
+
+
+11
+12
+
+13
+117
+A
+88;
+888924 *
+1h h(28:5B
+
+
+11
+12
+
+
+13
+90
+G
+126@
+12612724 *
+1Ä Ä(28:5B
+
+
+11
+12
+
+13
+128
+
+141
+14114217r√.
+
+81518*
+1 (
+
+81921*
+1 (
+
+222618*
+1# #(
+
+222821*
+1# #(
+
+302618*
+1+ +(
+
+302821*
+1+ +(
+
+333638*
+1< <(
+
+332618*
+1; ;(
+
+332821*
+1; ;(
+
+333621*
+1< <(
+
+333921*
+1<t <(ï
+
+334121*
+1<ó <(∞
+
+432618*
+1G G(
+
+432821*
+1G G(
+
+434621*
+1G G(
+
+482618*
+1P P(
+
+482821*
+1P P(
+
+512618*
+1V V(
+
+512821*
+1V V(
+
+545738*
+1X X(
+
+542618*
+1X X(
+
+542821*
+1X X(
+
+545721*
+1X X(
+
+595738*
+1Z Z(
+
+592618*
+1Z Z(
+
+592821*
+1Z Z(
+
+595721*
+1Z Z(
+
+625765*
+1\2 \(6
+
+622618*
+1\ \(
+
+622821*
+1\ \(
+
+625766*
+1\7 \(8
+
+625721*
+1\2 \(6
+
+677065*
+1^7 ^(=
+
+672618*
+1^ ^(
+
+672821*
+1^ ^(
+
+677066*
+1^> ^(D
+
+677021*
+1^7 ^(=
+
+727565*
+1`6 `(>
+
+722618*
+1` `(
+
+722821*
+1` `(
+
+727566*
+1`? `(G
+
+727521*
+1`6 `(>
+
+772618*
+1b b(
+
+772821*
+1b b(
+
+778021*
+1b b("
+
+822618*
+1d d(
+
+822821*
+1d d(
+
+852618*
+1f f(
+
+852821*
+1f f(
+
+882618*
+1h h(
+
+882821*
+1h h(
+
+912618*
+1j j(
+
+912821*
+1j j(
+
+947065*
+1le l(k
+
+942618*
+1l l(
+
+942821*
+1l l(
+
+947066*
+1ll l(m
+
+947021*
+1le l(k
+
+975738*
+1n n(
+
+975765*
+1n/ n(3
+
+972618*
+1n n(
+
+972821*
+1n n(
+
+975721*
+1n n(
+
+975766*
+1n4 n(A
+
+975721*
+1n/ n(3
+
+1007065*
+1p7 p(=
+
+1002618*
+1p p(
+
+1002821*
+1p p(
+
+1007066*
+1p> p(D
+
+1007021*
+1p7 p(=
+
+1032618*
+1r r(
+
+1032821*
+1r r(
+
+1067565*
+1t? t(G
+
+1062618*
+1t t(
+
+1062821*
+1t t(
+
+1068021*
+1t t("
+
+1067566*
+1tH t(I
+
+1067521*
+1t? t(G
+
+1098038*
+1v v(
+
+1092618*
+1v v(
+
+1092821*
+1v v(
+
+1098021*
+1v v(
+
+1127038*
+1x x(
+
+1122618*
+1x x(
+
+1122821*
+1x x(
+
+1127021*
+1x x(
+
+1153638*
+1z z(
+
+1152618*
+1z z(
+
+1152821*
+1z z(
+
+1153621*
+1z z(
+
+1185738*
+1| |(
+
+1185765*
+1|* |(.
+
+1182618*
+1| |(
+
+1182821*
+1| |(
+
+1185721*
+1| |(
+
+1185766*
+1|/ |(0
+
+1185721*
+1|* |(.
+
+1217565*
+1~9 ~(A
+
+1212618*
+1~ ~(
+
+1212821*
+1~ ~(
+
+12112421*
+1~ ~(
+
+1217566*
+1~B ~(C
+
+1217521*
+1~9 ~(A
+
+1267565*
+1ÄN Ä(V
+
+1262618*
+1Ä Ä(
+
+1262821*
+1Ä Ä(
+
+1267566*
+1ÄW Ä(X
+
+1267521*
+1ÄN Ä(V
+
+12912465*
+1Ç5 Ç(;
+
+1292618*
+1Ç Ç(
+
+1292821*
+1Ç Ç(
+
+1294621*
+1Ç Ç(
+
+12912466*
+1Ç< Ç(=
+
+12912421*
+1Ç5 Ç(;
+
+1327565*
+1Ñ. Ñ(6
+
+1322618*
+1Ñ Ñ(
+
+1322821*
+1Ñ Ñ(
+
+1327566*
+1Ñ7 Ñ(8
+
+1327521*
+1Ñ. Ñ(6
+
+1357565*
+1Ü- Ü(5
+
+1352618*
+1Ü Ü(
+
+1352821*
+1Ü Ü(
+
+1357566*
+1Ü6 Ü(7
+
+1357521*
+1Ü- Ü(5
+
+13814138*
+1à à(
+
+1385765*
+1à@ à(D
+
+1385765*
+1àH à(L
+
+1382618*
+1à à(
+
+1382821*
+1à à(
+
+13814121*
+1à à(
+
+1385766*
+1àE à(F
+
+1385721*
+1à@ à(D
+
+1385766*
+1àM à(Q
+
+1385721*
+1àH à(L
+
+14314638*
+1ä ä( 
+
+1435765*
+1äN ä(R
+
+1435765*
+1äY ä(]
+
+1434665*
+1äd ä(h
+
+1432618*
+1ä ä(
+
+1432821*
+1ä ä(
+
+14314621*
+1ä ä( 
+
+1435766*
+1äS ä(W
+
+1435721*
+1äN ä(R
+
+1435766*
+1ä^ ä(b
+
+1435721*
+1äY ä(]
+
+1434666*
+1äi ä(j
+
+1434621*
+1äd ä(h
+
+1482618*
+1å å(
+
+1482821*
+1å å(
+
+1515765*
+1é@ é(D
+
+1512618*
+1é é(
+
+1512821*
+1é é(
+
+1515766*
+1éE é(F
+
+1515721*
+1é@ é(D
+
+1545765*
+1ë% ë()
+
+1545765*
+1ë/ ë(3
+
+15414665*
+1ëG ë(S
+
+1542618*
+1ë ë(
+
+1542821*
+1ë ë(
+
+1545766*
+1ë* ë(.
+
+1545721*
+1ë% ë()
+
+1545766*
+1ë4 ë(8
+
+1545721*
+1ë/ ë(3
+
+15414666*
+1ëT ë(U
+
+15414621*
+1ëG ë(S
+
+15714665*
+1ì. ì(:
+
+1572618*
+1ì ì(
+
+1572821*
+1ì ì(
+
+15714666*
+1ì; ì(<
+
+15714621*
+1ì. ì(:
+
+1605738*
+1ï ï(
+
+1602618*
+1ï ï(
+
+1602821*
+1ï ï(
+
+1605721*
+1ï ï(
+
+1635765*
+1ó. ó(2
+
+1632618*
+1ó ó(
+
+1632821*
+1ó ó(
+
+1635766*
+1ó3 ó(4
+
+1635721*
+1ó. ó(2
+
+1664665*
+1ô9 ô(=
+
+1662618*
+1ô ô(
+
+1662821*
+1ô ô(
+
+1668021*
+1ô ô("
+
+1664666*
+1ô> ô(D
+
+1664621*
+1ô9 ô(=
+
+1695738*
+1õ õ(
+
+1692618*
+1õ õ(
+
+1692821*
+1õ õ(
+
+1695721*
+1õ õ(
+
+1725765*
+1ù= ù(A
+
+1722618*
+1ù ù(
+
+1722821*
+1ù ù(
+
+17214121*
+1ù ù((
+
+1725766*
+1ùB ù(O
+
+1725721*
+1ù= ù(A
+
+1752618*
+1ü ü(
+
+1752821*
+1ü ü(
+
+1782618*
+1° °(
+
+1782821*
+1° °(
+
+1812618*
+1£ £(
+
+1812821*
+1£ £(
+
+1842618*
+1• •(
+
+1842821*
+1• •(
+
+1872618*
+1ß ß(
+
+1872821*
+1ß ß(
+
+1902618*
+1© ©(
+
+1902821*
+1© ©(

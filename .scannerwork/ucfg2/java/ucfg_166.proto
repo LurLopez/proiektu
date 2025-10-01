@@ -1,0 +1,28 @@
+
+>domain.User#getbidalitakoErreklamazioak()Ljava/util/ArrayList;L
+B/home/lur/eclipse-workspace/Rides24/src/main/java/domain/User.javak  k(;"1*¡
+1l l(1s
+q
+l l(1
+%0java.util.List"__id*I
+
+__unknown_file (-*+
+domain.User"
+bidalitakoErreklamazioak<:
+l l(
+%1java.util.ArrayList"java.util.ArrayListµ
+²
+l	 l(2
+%2"3java.util.ArrayList#<init>(Ljava/util/Collection;)V*7
+
+__unknown_file (
+
+%1java.util.ArrayList*2
+
+__unknown_file (
+
+%0java.util.List"'
+l l(3
+
+%1java.util.ArrayListB
+domain.UserH

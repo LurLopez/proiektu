@@ -1,0 +1,56 @@
+
+gdataAccess.DataAccess#balorazioaSortu(Ljava/lang/String;ILdomain/User;Ldomain/User;)Ldomain/Balorazioa;X
+L/home/lur/eclipse-workspace/Rides24/src/main/java/dataAccess/DataAccess.javaÜ Ü(""1*Å
+1
+Ý Ý(:8
+
+Þ Þ('
+%0domain.Balorazioa"domain.BalorazioaÚ
+×
+
+Þ Þ(A
+%1"Hdomain.Balorazioa#<init>(Ljava/lang/String;FLdomain/User;Ldomain/User;)V*5
+
+__unknown_file (
+
+%0domain.Balorazioa*8
+
+__unknown_file (
+
+testuajava.lang.String*"
+
+__unknown_file (
+""*1
+
+__unknown_file (
+
+norkdomain.User*1
+
+__unknown_file (
+
+noridomain.Userk
+i
+
+Þ Þ(B
+	baloraziodomain.Balorazioa"__id*5
+
+__unknown_file (
+
+%0domain.Balorazioa".
+
+â â( 
+
+	baloraziodomain.Balorazioa:(
+
+Ü# Ü(1
+testuajava.lang.String: 
+
+__unknown_file (
+"":!
+
+Ü< Ü(F
+norkdomain.User:!
+
+ÜG Ü(P
+noridomain.UserB
+dataAccess.DataAccessH

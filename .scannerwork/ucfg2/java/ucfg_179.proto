@@ -1,0 +1,196 @@
+
+'domain.User#equals(Ljava/lang/Object;)ZN
+B/home/lur/eclipse-workspace/Rides24/src/main/java/domain/User.java± ±("startingBlock*%
+1
+¿	 ¿("
+
+¿ ¿(
+""*%
+2
+ø
+ ø("
+
+ø ø(
+""*Ú
+3
+æ æ(p
+n
+
+æ æ(
+%5java.lang.String"__id*B
+
+__unknown_file (&*$
+domain.User"
+erabiltzaileIzenaèå
+
+æ  æ(/
+%6java.lang.String"'domain.User#getName()Ljava/lang/String;*2
+
+__unknown_file (
+
+otherdomain.User2	getName()‘—
+
+æ æ(0
+%7boolean",java.lang.String#equals(Ljava/lang/Object;)Z*4
+
+__unknown_file (
+
+%5java.lang.String*4
+
+__unknown_file (
+
+%6java.lang.String2equals(Ljava/lang/Object;)*
+2
+1*ã
+startingBlock
+± ±("å
+â
+
+∞ ∞(
+
+%8"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+objjava.lang.ObjectY
+W
+
+± ±(!
+objjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%8*
+12*w
+4
+º º(a
+_
+
+º º(
+otherdomain.User"__id*5
+
+__unknown_file (
+
+objjava.lang.Object*
+3*w
+5
+∫ ∫(a
+_
+
+∫ ∫(
+otherdomain.User"__id*5
+
+__unknown_file (
+
+objjava.lang.Object*
+3*g
+6
+∏ ∏(N
+L
+
+∏ ∏(
+otherdomain.User"__id*"
+
+__unknown_file (
+""*
+4
+5*%
+7
+∑
+ ∑("
+
+∑ ∑(
+""*—
+8
+∂ ∂(çä
+
+∂ ∂(
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*+
+
+__unknown_file (
+domain.User2
+getClass()óî
+
+∂ ∂("
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*5
+
+__unknown_file (
+
+objjava.lang.Object2
+getClass()ç
+ä
+
+∂ ∂("
+%4boolean"	__compare*
+
+∂ ∂(
+!=*%
+
+∂ ∂(
+
+%2java.lang.Class*%
+
+∂ ∂("
+
+%3java.lang.Class*
+6
+7*%
+9
+µ
+ µ("
+
+µ µ(
+""*ó
+10
+¥ ¥(	}
+{
+
+¥ ¥(
+%1boolean"	__compare*
+
+¥
+ ¥(
+==*'
+
+¥ ¥(	
+
+objjava.lang.Object*
+
+¥ ¥(
+""*
+8
+9*&
+11
+≥
+ ≥("
+
+≥ ≥(
+""*§
+12
+≤ ≤(
+á
+Ñ
+
+≤ ≤(
+%0boolean"	__compare*
+
+≤ ≤(
+==*
+
+≤ ≤(
+
+domain.User*'
+
+≤ ≤(
+
+objjava.lang.Object*
+10
+11:%
+
+± ±(!
+objjava.lang.ObjectB
+domain.UserHX

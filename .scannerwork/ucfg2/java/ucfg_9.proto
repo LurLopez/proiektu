@@ -1,0 +1,184 @@
+
+udataAccess.DataAccess#register(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ldomain/User;X
+L/home/lur/eclipse-workspace/Rides24/src/main/java/dataAccess/DataAccess.java» »("7*‘
+2
+÷ ÷(	S
+Q
+
+÷ ÷(
+%7java.io.PrintStream"__id*"
+
+__unknown_file (
+""ËÂ
+
+÷ ÷(<
+
+%8void"0java.io.PrintStream#println(Ljava/lang/String;)V*7
+
+__unknown_file (
+
+%7java.io.PrintStream*C
+
+__unknown_file ('%
+#Gidari hau erregistratuta dago jada2println(Ljava/lang/String;)*
+1*Û
+3
+“ “(64
+
+“ “(
+%5domain.Traveler"domain.Traveler«
+ƒ
+
+“ “((
+%6"Odomain.Traveler#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*3
+
+__unknown_file (
+
+%5domain.Traveler*6
+
+__unknown_file (
+
+mailjava.lang.String*:
+
+__unknown_file (
+
+usernamejava.lang.String*6
+
+__unknown_file (
+
+passjava.lang.String[
+Y
+
+“ “((
+jdomain.User"__id*3
+
+__unknown_file (
+
+%5domain.Traveler*
+1*ü
+4
+— —(Ö
+Ç
+
+— —(
+%4boolean"	__compare*
+
+— —(
+==*(
+
+— —(
+
+typejava.lang.String*
+
+— —(
+
+Traveler*
+3
+1*È
+5
+œ œ(20
+
+œ œ(
+%2domain.Driver"domain.Driver√
+¿
+
+œ œ(&
+%3"Mdomain.Driver#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*1
+
+__unknown_file (
+
+%2domain.Driver*6
+
+__unknown_file (
+
+mailjava.lang.String*:
+
+__unknown_file (
+
+usernamejava.lang.String*6
+
+__unknown_file (
+
+passjava.lang.StringY
+W
+
+œ œ(&
+jdomain.User"__id*1
+
+__unknown_file (
+
+%2domain.Driver*
+1*ù
+6
+Œ Œ(
+É
+Ä
+
+Œ Œ(
+%1boolean"	__compare*
+
+Œ Œ(
+==*(
+
+Œ Œ(
+
+
+typejava.lang.String*
+
+Œ Œ(
+
+Driver*
+4
+5*ß
+7
+   (J
+H
+
+À À()
+udomain.User"__id*"
+
+__unknown_file (
+""J
+H
+
+Ã Ã(
+jdomain.User"__id*"
+
+__unknown_file (
+""v
+t
+
+Õ Õ(
+%0boolean"	__compare*
+
+Õ Õ(	
+==* 
+
+Õ Õ(
+
+udomain.User*
+
+Õ
+ Õ(
+""*
+2
+6*1
+1
+ÿ ÿ(" 
+
+⁄ ⁄(
+
+jdomain.User:*
+
+» »(&
+usernamejava.lang.String:&
+
+»' »(3
+passjava.lang.String:&
+
+»4 »(@
+typejava.lang.String:&
+
+»A »(L
+mailjava.lang.StringB
+dataAccess.DataAccessH

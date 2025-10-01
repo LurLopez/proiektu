@@ -1,0 +1,585 @@
+
+1.0lurlopez_proiektuJavaFrontend"1758904449598*java2.BÚ
+3
+.src/main/java/domain/FuntzioLaguntzaileak.java2
+	
+type3
+	
+MAIN4
+
+package6
+
+domain7
+ 
+domain.FuntzioLaguntzaileak9
+
+class10
+
+access11
+
+public12
+
+simple-name13
+
+FuntzioLaguntzaileak14
+(
+"domain.FuntzioLaguntzaileak.facade16
+
+field17
+
+private18
+
+facade19
+
+businessLogic.BLFacade21
+
+unknown22
+
+is type23
+
+
+uses24
+\
+Vdomain.FuntzioLaguntzaileak#MugimenduakAktualizatu(Ldomain/User;)Ljava/util/ArrayList;26
+
+method27
+
+MugimenduakAktualizatu28
+
+domain.User30
+
+	has param31
+
+domain.Mugimendua33
+
+returns34
+
+
+references35
+N
+HbusinessLogic.BLFacade#ErabiltzaileaFreskatu(Ldomain/User;)Ldomain/User;37
+
+calls38
+2
+,domain.User#getMugimenduak()Ljava/util/List;40
+#
+domain.Mugimendua#getMezua()I42
+;
+5domain.Mugimendua#setMezuastring(Ljava/lang/String;)V44
+a
+[domain.Mugimendua#ToStringOsatzeko(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V46
+\
+Vdomain.FuntzioLaguntzaileak#UrteHilabeteEgunString(Ljava/util/Date;)Ljava/lang/String;48
+
+UrteHilabeteEgunString49
+f
+`domain.FuntzioLaguntzaileak#UrteHilabeteEgunOrduMinutuString(Ljava/util/Date;)Ljava/lang/String;51
+&
+ UrteHilabeteEgunOrduMinutuString52
+c
+]domain.FuntzioLaguntzaileak#GetTravelerBatenBidaiaOnartuak(Ldomain/Traveler;)Ljava/util/List;54
+$
+GetTravelerBatenBidaiaOnartuak55
+
+domain.Traveler57
+"
+Recovered#typeBindingLRide;059
+
+domain.Erreserba61
+Z
+TbusinessLogic.BLFacade#GetTravelerBatenErreserbak(Ldomain/Traveler;)Ljava/util/List;63
+
+
+Ride65
+<
+6businessLogic.BLFacade#bilatuBidaiaKodearekin(I)LRide;67
+(
+"domain.Erreserba#getDriverKodea()I69
+%
+domain.Erreserba#getOnartuta()Z71
+
+ydomain.FuntzioLaguntzaileak#GetTravelerBatenBidaiaKonkretuBatenErreserbaOnartuak(Ldomain/Traveler;LRide;)Ljava/util/List;73
+:
+4GetTravelerBatenBidaiaKonkretuBatenErreserbaOnartuak74
+a
+[domain.FuntzioLaguntzaileak#GetTravelerBatenBidaiak(Ldomain/Traveler;)Ljava/util/ArrayList;76
+
+GetTravelerBatenBidaiak77J
+
+1
+12
+
+
+3
+4Z
+
+5	
+576jÒ
+
+36
+363722
+
+29
+293022
+
+39
+394022
+
+68
+686922
+A
+72;
+727327 *
+1h h(	28:5B
+
+
+11
+12
+
+
+13
+74
+;
+86
+8910 *
+1 (":5B
+
+
+11
+12
+
+
+13
+14
+
+70
+707122
+A
+47;
+474827 *
+1? ?(	28:5B
+
+
+11
+12
+
+
+13
+49
+
+32
+323322
+A
+53;
+535427 *
+1P P(	28:5B
+
+
+11
+12
+
+
+13
+55
+
+45
+454622
+
+20
+202122
+
+56
+565722
+A
+50;
+505127 *
+1F F(	28:5B
+
+
+11
+12
+
+
+13
+52
+
+62
+626322
+A
+75;
+757627 *
+1x x(
+28:5B
+
+
+11
+12
+
+
+13
+77
+A
+25;
+252627 *
+1 (28:5B
+
+
+11
+12
+
+
+13
+28
+
+60
+606122
+A
+15;
+151617 *
+1 (	28:5B
+
+
+11
+18
+
+
+13
+19
+
+58
+585922
+
+43
+434422
+
+66
+666722
+
+41
+414222
+
+64
+646522r¾
+
+152023*
+1
+ (
+
+152024*
+1
+ (
+
+152024*
+1 (
+
+252931*
+16 (:
+
+253224*
+1 (
+
+252923*
+1; (H
+
+252924*
+16 (:
+
+252923*
+1 (	
+
+252924*
+1 (
+
+252934*
+1 (
+
+252035*
+1 (
+
+253638*
+1 ('
+
+251535*
+1 (
+
+252024*
+1 (
+
+251535*
+1 (
+
+253224*
+1 (
+
+253224*
+1. (8
+
+253223*
+1 (
+
+253224*
+1 (
+
+252935*
+1 (
+
+253938*
+1 (&
+
+253235*
+1 (
+
+254138*
+1 ("
+
+253235*
+12 2(
+
+254338*
+12 2(
+
+253235*
+13 3(
+
+254538*
+13 3(
+
+535631*
+1P4 P(<
+
+535824*
+1P P(
+
+535623*
+1P= P(>
+
+535624*
+1P4 P(<
+
+536024*
+1Q	 Q(
+
+532035*
+1Q" Q((
+
+536238*
+1Q) Q(C
+
+531535*
+1Q" Q((
+
+532024*
+1Q" Q((
+
+531535*
+1Q" Q((
+
+535824*
+1S S(
+
+535824*
+1S1 S(5
+
+536023*
+1T T(
+
+536024*
+1T T(
+
+535823*
+1U
+ U(
+
+535824*
+1U U(	
+
+536434*
+1U U(#
+
+532035*
+1U U(#
+
+536638*
+1U$ U(:
+
+531535*
+1U U(#
+
+532024*
+1U U(#
+
+531535*
+1U U(#
+
+536035*
+1U; U(<
+
+536838*
+1U= U(K
+
+536035*
+1X5 X(6
+
+537038*
+1X7 X(B
+
+535823*
+1_
+ _(
+
+535824*
+1_ _(	
+
+536434*
+1_ _(
+
+532035*
+1_ _(
+
+536638*
+1_ _(.
+
+531535*
+1_ _(
+
+532024*
+1_ _(
+
+531535*
+1_ _(
+
+725631*
+1hO h(W
+
+725831*
+1hZ h(^
+
+726024*
+1h h(
+
+725623*
+1hX h(Y
+
+725624*
+1hO h(W
+
+725823*
+1h_ h(e
+
+725824*
+1hZ h(^
+
+726024*
+1j	 j(
+
+722035*
+1j" j((
+
+726238*
+1j) j(C
+
+721535*
+1j" j((
+
+722024*
+1j" j((
+
+721535*
+1j" j((
+
+726024*
+1k	 k(
+
+726024*
+1k) k(2
+
+726023*
+1l l(
+
+726024*
+1l l(
+
+726035*
+1m m(	
+
+726838*
+1m
+ m(
+
+726035*
+1m# m($
+
+727038*
+1m% m(0
+
+755631*
+1x3 x(;
+
+755824*
+1x x(
+
+755623*
+1x< x(=
+
+755624*
+1x3 x(;
+
+756024*
+1y	 y(
+
+752035*
+1y" y((
+
+756238*
+1y) y(C
+
+751535*
+1y" y((
+
+752024*
+1y" y((
+
+751535*
+1y" y((
+
+756023*
+1{ {(
+
+756024*
+1{ {(
+
+756035*
+1|  |(!
+
+756838*
+1|" |(0
+
+756035*
+1} }(
+
+756838*
+1} }((
+
+755824*
+1€ €(
+
+755824*
+1€) €(-
+
+756434*
+1‚ ‚(
+
+752035*
+1‚ ‚(
+
+756638*
+1‚ ‚(.
+
+751535*
+1‚ ‚(
+
+752024*
+1‚ ‚(
+
+751535*
+1‚ ‚(

@@ -1,0 +1,550 @@
+
+1.0lurlopez_proiektuJavaFrontend"1758904451438*java2.B“
+6
+1src/main/java/gui/ErabiltzaileMezuaGehituGUI.java2
+	
+type3
+	
+MAIN4
+
+package6
+
+gui7
+#
+gui.ErabiltzaileMezuaGehituGUI9
+
+class10
+
+access11
+
+public12
+
+simple-name13
+ 
+ErabiltzaileMezuaGehituGUI14
+5
+/gui.ErabiltzaileMezuaGehituGUI.serialVersionUID16
+
+field17
+
+private18
+
+serialVersionUID19
+-
+'gui.ErabiltzaileMezuaGehituGUI.SartuKop21
+
+SartuKop22
++
+%gui.ErabiltzaileMezuaGehituGUI.facade24
+
+facade25
+
+businessLogic.BLFacade27
+
+unknown28
+
+is type29
+
+
+uses30
+7
+1gui.ErabiltzaileMezuaGehituGUI.BidaiakErreserbatu32
+
+BidaiakErreserbatu33
+7
+1gui.ErabiltzaileMezuaGehituGUI.ErreserbakComboBox35
+
+ErreserbakComboBox36
+1
++gui.ErabiltzaileMezuaGehituGUI.AlertakIkusi38
+
+AlertakIkusi39
+<
+6gui.ErabiltzaileMezuaGehituGUI.AlertaHonekEzDuBidairik41
+
+AlertaHonekEzDuBidairik42
+-
+'gui.ErabiltzaileMezuaGehituGUI.traveler44
+
+traveler45
+
+domain.Traveler47
+&
+ gui.ErabiltzaileMezuaGehituGUI.f49
+
+f50
+!
+domain.FuntzioLaguntzaileak52
+
+calls53
+.
+(gui.ErabiltzaileMezuaGehituGUI.mezulista55
+
+	mezulista56
+#
+Recovered#typeBindingLMezua;058
+]
+Wgui.ErabiltzaileMezuaGehituGUI#<init>(Ldomain/User;Ldomain/User;Ldomain/Erreklamazio;)V60
+
+method61
+
+domain.User63
+
+	has param64
+
+domain.Erreklamazio66
+&
+ gui.ErabiltzaileMezuaGehituGUI$168
+
+	protected69
+S
+Mgui.ErabiltzaileMezuaGehituGUI$1#windowClosing(Ljava/awt/event/WindowEvent;)V71
+
+windowClosing72
+
+
+references73
+:
+4domain.User#getErabiltzaileIzena()Ljava/lang/String;75
+-
+'domain.User#getName()Ljava/lang/String;77
+&
+ gui.ErabiltzaileMezuaGehituGUI$279
+U
+Ogui.ErabiltzaileMezuaGehituGUI$2#actionPerformed(Ljava/awt/event/ActionEvent;)V81
+
+actionPerformed82
+l
+fbusinessLogic.BLFacade#MezuaGehitu(Ldomain/User;Ldomain/User;Ljava/lang/String;Ldomain/Erreklamazio;)V84
+O
+Igui.ErabiltzaileMezuaGehituGUI#itxi_lehioa(Ljava/awt/event/ActionEvent;)V86
+ 
+gui.ErreklamazioakIkusiGUI88
+&
+ gui.ErabiltzaileMezuaGehituGUI$390
+U
+Ogui.ErabiltzaileMezuaGehituGUI$3#actionPerformed(Ljava/awt/event/ActionEvent;)V92
+
+itxi_lehioa93J
+
+1
+12
+
+
+3
+4Z
+
+5	
+576jü
+B
+91<
+919261 *
+1r r(
+289:5B
+
+
+11
+12
+
+
+13
+82
+
+65
+656628
+A
+15;
+151617 *
+1 (	28:5B
+
+
+11
+18
+
+
+13
+19
+B
+70<
+707161 *
+11 1(267:5B
+
+
+11
+12
+
+
+13
+72
+A
+34;
+343517 *
+1" "(	28:5B
+
+
+11
+18
+
+
+13
+36
+
+26
+262728
+A
+48;
+484917 *
+1& &(	28:5B
+
+
+11
+18
+
+
+13
+50
+C
+85=
+858661 *
+1Ñ Ñ(	28:5B
+
+
+11
+18
+
+
+13
+93
+A
+40;
+404117 *
+1$ $(	28:5B
+
+
+11
+18
+
+
+13
+42
+A
+43;
+434417 *
+1% %(	28:5B
+
+
+11
+18
+
+
+13
+45
+B
+80<
+808161 *
+1Z Z(
+278:5B
+
+
+11
+12
+
+
+13
+82
+A
+37;
+373817 *
+1# #(	28:5B
+
+
+11
+18
+
+
+13
+39
+A
+23;
+232417 *
+1   (	28:5B
+
+
+11
+18
+
+
+13
+25
+
+57
+575828
+A
+59;
+596061 *
+1* *(28:5B
+
+
+11
+12
+
+
+13
+14
+
+62
+626328
+
+83
+838428
+6
+670
+676810 *
+10) 0(*259:5B
+
+
+11
+69
+
+51
+515228
+A
+54;
+545517 *
+1( ((	28:5B
+
+
+11
+18
+
+
+13
+56
+6
+890
+899010 *
+1q1 q(2259:5B
+
+
+11
+69
+6
+780
+787910 *
+1Y1 Y(2259:5B
+
+
+11
+69
+;
+86
+8910 *
+1 ((:5B
+
+
+11
+12
+
+
+13
+14
+
+46
+464728
+A
+31;
+313217 *
+1! !(	28:5B
+
+
+11
+18
+
+
+13
+33
+
+74
+747528
+
+76
+767728
+
+87
+878828
+A
+20;
+202117 *
+1 (	28:5B
+
+
+11
+18
+
+
+13
+22rˆ
+
+
+232629*
+1 
+  (
+
+232630*
+1 
+  (
+
+232630*
+1   (
+
+434629*
+1%
+ %(
+
+434630*
+1%
+ %(
+
+434630*
+1% %(
+
+485129*
+1&
+ &(
+
+485130*
+1&
+ &(
+
+485130*
+1& &( 
+
+485153*
+1&% &(9
+
+545730*
+1( ((
+
+545730*
+1(3 ((8
+
+596264*
+1*$ *((
+
+596264*
+1*/ *(3
+
+596564*
+1*9 *(E
+
+59853*
+1*	 *(#
+
+596229*
+1*) *(-
+
+596230*
+1*$ *((
+
+596229*
+1*4 *(8
+
+596230*
+1*/ *(3
+
+596529*
+1*F *(S
+
+596530*
+1*9 *(E
+
+59873*
+17 7(
+
+59830*
+17 7(
+
+59873*
+17 7(
+
+59873*
+18 8(
+
+59830*
+18 8(
+
+59873*
+18 8(
+
+596273*
+1I  I($
+
+597453*
+1I% I(9
+
+596273*
+1P P(
+
+597653*
+1P P($
+
+806229*
+1\ \(
+
+806230*
+1\ \(
+
+
+802673*
+1c c(
+
+808353*
+1c c(
+
+802373*
+1c c(
+
+802630*
+1c c(
+
+802373*
+1c c(
+
+80873*
+1d d(
+
+808553*
+1d d(
+
+808729*
+1e e(#
+
+808730*
+1e e(
+
+808753*
+1e( e(>
+
+91873*
+1s s(
+
+918553*
+1s s(
+
+918729*
+1t t("
+
+918730*
+1t t(
+
+918753*
+1t' t(=
+
+85873*
+1Ö Ö(
+
+85830*
+1Ö Ö(
+
+85873*
+1Ö Ö(

@@ -1,0 +1,87 @@
+
+JbusinessLogic.BLFacadeImplementation#alertakKonprobatu(Ldomain/Traveler;)Zg
+[/home/lur/eclipse-workspace/Rides24/src/main/java/businessLogic/BLFacadeImplementation.java¤ ¤(!"startingBlock*„
+startingBlock
+¤! ¤(-‰
+†
+
+£ £(
+
+%6"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*2
+
+__unknown_file (
+
+tdomain.TravelerV
+T
+
+¤+ ¤(,
+tdomain.Traveler"__annotation*"
+
+__unknown_file (
+
+%6*
+1*´
+1
+¦ ¦(‡
+„
+
+¦ ¦(
+%0dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager|z
+
+¦ ¦(
+
+%1void"dataAccess.DataAccess#open()V*9
+
+__unknown_file (
+
+%0dataAccess.DataAccess2open()‡
+„
+
+§ §( 
+%2dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManagerðí
+
+§ §(5
+%3boolean";dataAccess.DataAccess#alertakKonprobatu(Ldomain/Traveler;)Z*9
+
+__unknown_file (
+
+%2dataAccess.DataAccess*2
+
+__unknown_file (
+
+tdomain.Traveler2$alertakKonprobatu(Ldomain/Traveler;)‡
+„
+
+¨ ¨(
+%4dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager~|
+
+¨ ¨(
+
+%5void"dataAccess.DataAccess#close()V*9
+
+__unknown_file (
+
+%4dataAccess.DataAccess2close()"
+
+ª ª(
+"":"
+
+¤" ¤(,
+tdomain.TravelerB(&
+$businessLogic.BLFacadeImplementationHX

@@ -1,0 +1,72 @@
+
+_businessLogic.BLFacadeImplementation#GetTravelerBatenAlertak(Ldomain/Traveler;)Ljava/util/List;g
+[/home/lur/eclipse-workspace/Rides24/src/main/java/businessLogic/BLFacadeImplementation.javaî î(,"1*Ì
+1
+ï ï(‡
+„
+
+ï ï(
+%0dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager|z
+
+ï ï(
+
+%1void"dataAccess.DataAccess#open()V*9
+
+__unknown_file (
+
+%0dataAccess.DataAccess2open()‡
+„
+
+ğ ğ( 
+%2dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager’
+
+ğ ğ(;
+%3java.util.List"PdataAccess.DataAccess#GetTravelerBatenAlertak(Ldomain/Traveler;)Ljava/util/List;*9
+
+__unknown_file (
+
+%2dataAccess.DataAccess*2
+
+__unknown_file (
+
+tdomain.Traveler2*GetTravelerBatenAlertak(Ldomain/Traveler;)a
+_
+
+ğ ğ(<
+listajava.util.List"__id*2
+
+__unknown_file (
+
+%3java.util.List‡
+„
+
+ñ ñ(
+%4dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager~|
+
+ñ ñ(
+
+%5void"dataAccess.DataAccess#close()V*9
+
+__unknown_file (
+
+%4dataAccess.DataAccess2close()"'
+
+ò ò(
+
+listajava.util.List:"
+
+î- î(7
+tdomain.TravelerB(&
+$businessLogic.BLFacadeImplementationH

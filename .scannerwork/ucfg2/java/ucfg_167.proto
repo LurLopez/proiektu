@@ -1,0 +1,28 @@
+
+<domain.User#getjasotakoErreklamazioak()Ljava/util/ArrayList;L
+B/home/lur/eclipse-workspace/Rides24/src/main/java/domain/User.javan  n(9"1*Ÿ
+1o o(/q
+o
+o o(/
+%0java.util.List"__id*G
+
+__unknown_file (+*)
+domain.User"
+jasotakoErreklamazioak<:
+o o(
+%1java.util.ArrayList"java.util.ArrayListµ
+²
+o	 o(0
+%2"3java.util.ArrayList#<init>(Ljava/util/Collection;)V*7
+
+__unknown_file (
+
+%1java.util.ArrayList*2
+
+__unknown_file (
+
+%0java.util.List"'
+o o(1
+
+%1java.util.ArrayListB
+domain.UserH

@@ -1,0 +1,72 @@
+
+jbusinessLogic.BLFacadeImplementation#ErreklamazioakKargatuErabiltzaile(Ldomain/User;)Ljava/util/ArrayList;g
+[/home/lur/eclipse-workspace/Rides24/src/main/java/businessLogic/BLFacadeImplementation.javaË Ë(4"1*ï
+1
+Ì Ì(‡
+„
+
+Ì Ì(
+%0dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager|z
+
+Ì Ì(
+
+%1void"dataAccess.DataAccess#open()V*9
+
+__unknown_file (
+
+%0dataAccess.DataAccess2open()‡
+„
+
+Í# Í(,
+%2dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager¤¡
+
+Í# Í(Q
+%3java.util.ArrayList"[dataAccess.DataAccess#ErreklamazioakKargatuErabiltzaile(Ldomain/User;)Ljava/util/ArrayList;*9
+
+__unknown_file (
+
+%2dataAccess.DataAccess*.
+
+__unknown_file (
+
+udomain.User20ErreklamazioakKargatuErabiltzaile(Ldomain/User;)l
+j
+
+Í Í(R
+itzulijava.util.ArrayList"__id*7
+
+__unknown_file (
+
+%3java.util.ArrayList‡
+„
+
+Î Î(
+%4dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager~|
+
+Î Î(
+
+%5void"dataAccess.DataAccess#close()V*9
+
+__unknown_file (
+
+%4dataAccess.DataAccess2close()"-
+
+Ï Ï(
+
+itzulijava.util.ArrayList:
+
+Ë5 Ë(;
+udomain.UserB(&
+$businessLogic.BLFacadeImplementationH

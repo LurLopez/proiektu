@@ -1,0 +1,122 @@
+
+]businessLogic.BLFacadeImplementation#login(Ljava/lang/String;Ljava/lang/String;)Ldomain/User;g
+[/home/lur/eclipse-workspace/Rides24/src/main/java/businessLogic/BLFacadeImplementation.javaÖ Ö("startingBlock*‰
+startingBlock
+Ö Ö(.É
+Ä
+
+Ñ Ñ(
+%6"
+__annotate*)
+
+__unknown_file (
+	WebMethod*5
+
+__unknown_file (
+
+logjava.lang.StringY
+W
+
+Ö Ö( 
+logjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%6Ñ
+Å
+
+Ñ Ñ(
+%7"
+__annotate*)
+
+__unknown_file (
+	WebMethod*6
+
+__unknown_file (
+
+passjava.lang.StringZ
+X
+
+Ö) Ö(-
+passjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%7*
+1*Ú
+1
+Ü Ü(á
+Ñ
+
+Ü Ü(
+%0dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager|z
+
+Ü Ü(
+
+%1void"dataAccess.DataAccess#open()V*9
+
+__unknown_file (
+
+%0dataAccess.DataAccess2open()á
+Ñ
+
+á á(
+%2dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager…∆
+
+á á('
+%3domain.User"NdataAccess.DataAccess#login(Ljava/lang/String;Ljava/lang/String;)Ldomain/User;*9
+
+__unknown_file (
+
+%2dataAccess.DataAccess*5
+
+__unknown_file (
+
+logjava.lang.String*6
+
+__unknown_file (
+
+passjava.lang.String2+login(Ljava/lang/String;Ljava/lang/String;)W
+U
+
+á á((
+udomain.User"__id*/
+
+__unknown_file (
+
+%3domain.Userá
+Ñ
+
+â â(
+%4dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager~|
+
+â â(
+
+%5void"dataAccess.DataAccess#close()V*9
+
+__unknown_file (
+
+%4dataAccess.DataAccess2close()" 
+
+ä ä(
+
+udomain.User:%
+
+Ö Ö(!
+logjava.lang.String:&
+
+Ö" Ö(-
+passjava.lang.StringB(&
+$businessLogic.BLFacadeImplementationH

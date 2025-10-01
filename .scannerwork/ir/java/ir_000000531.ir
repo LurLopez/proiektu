@@ -1,0 +1,23 @@
+!this ("domain.Alerta!f ("java.lang.String!t (!"java.lang.Stringd# ()"java.util.Date b+ (5"domain.Traveler"ƒ3
+1
+ (nondik"#id#:Bjava.lang.String(
+&
+ ("#set-field# nondik:1
+/
+	 (
+nora"#id#:Bjava.lang.String&
+$
+ (
+	"#set-field# nora:/
+-
+ (	
+data"#id#:Bjava.util.Date&
+$
+ (	"#set-field# data:
+4
+2
+ (traveler"#id#:Bdomain.Traveler*
+(
+ ("#set-field# traveler:
+
+ (*D/home/lur/eclipse-workspace/Rides24/src/main/java/domain/Alerta.java

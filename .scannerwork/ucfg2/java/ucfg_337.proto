@@ -1,0 +1,71 @@
+
+IbusinessLogic.BLFacadeImplementation#erreserbaBilatu(I)Ldomain/Erreserba;g
+[/home/lur/eclipse-workspace/Rides24/src/main/java/businessLogic/BLFacadeImplementation.javaõ õ(!"1*¬
+1
+ö ö(‡
+„
+
+ö ö(
+%0dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager|z
+
+ö ö(
+
+%1void"dataAccess.DataAccess#open()V*9
+
+__unknown_file (
+
+%0dataAccess.DataAccess2open()‡
+„
+
+÷ ÷(!
+%2dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManageräá
+
+÷ ÷(H
+%3domain.Erreserba"AdataAccess.DataAccess#getErreserbaKodearekin(I)Ldomain/Erreserba;*9
+
+__unknown_file (
+
+%2dataAccess.DataAccess*"
+
+__unknown_file (
+""2getErreserbaKodearekin(I)i
+g
+
+÷ ÷(I
+	erreserbadomain.Erreserba"__id*4
+
+__unknown_file (
+
+%3domain.Erreserba‡
+„
+
+ø ø(
+%4dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager~|
+
+ø ø(
+
+%5void"dataAccess.DataAccess#close()V*9
+
+__unknown_file (
+
+%4dataAccess.DataAccess2close()"-
+
+ù ù(
+
+	erreserbadomain.Erreserba: 
+
+__unknown_file (
+""B(&
+$businessLogic.BLFacadeImplementationH

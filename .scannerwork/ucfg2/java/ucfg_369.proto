@@ -1,0 +1,69 @@
+
+&gui.AlertakIkusiGUI#%field_initializer
+__unknown_file ("1*ç
+1 (ñ
+ì
+T
+J/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AlertakIkusiGUI.java (6!
+gui.AlertakIkusiGUI"
+facade"__id*
+ (
+""çä
+T
+J/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AlertakIkusiGUI.java, (5
+%0javax.swing.JComboBox"javax.swing.JComboBox´
+®
+T
+J/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AlertakIkusiGUI.java( (7
+%1"javax.swing.JComboBox#<init>()V*)
+ (
+
+%0javax.swing.JComboBoxπ
+∂
+T
+J/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AlertakIkusiGUI.java (8-
+gui.AlertakIkusiGUI"
+BidaiakErreserbatu"__id*)
+ (
+
+%0javax.swing.JComboBoxçä
+T
+J/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AlertakIkusiGUI.java, (5
+%2javax.swing.JComboBox"javax.swing.JComboBox´
+®
+T
+J/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AlertakIkusiGUI.java( (7
+%3"javax.swing.JComboBox#<init>()V*)
+ (
+
+%2javax.swing.JComboBoxπ
+∂
+T
+J/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AlertakIkusiGUI.java (8-
+gui.AlertakIkusiGUI"
+ErreserbakComboBox"__id*)
+ (
+
+%2javax.swing.JComboBoxôñ
+T
+J/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AlertakIkusiGUI.java"$ "(8!
+%4domain.FuntzioLaguntzaileak"domain.FuntzioLaguntzaileak∑
+¥
+T
+J/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AlertakIkusiGUI.java"  "(:
+%5"%domain.FuntzioLaguntzaileak#<init>()V*/
+ (#
+!
+%4domain.FuntzioLaguntzaileakÆ
+´
+T
+J/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AlertakIkusiGUI.java" "(;
+gui.AlertakIkusiGUI"
+f"__id*/
+ (#
+!
+%4domain.FuntzioLaguntzaileak"j
+S
+J/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AlertakIkusiGUI.java û(
+implicit returnB
+gui.AlertakIkusiGUI

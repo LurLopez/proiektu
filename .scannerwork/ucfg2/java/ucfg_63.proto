@@ -1,0 +1,60 @@
+
+.domain.Balorazioa#toString()Ljava/lang/String;R
+H/home/lur/eclipse-workspace/Rides24/src/main/java/domain/Balorazioa.java ("1*Û
+1 	  (U
+S
+ 	  (
+%0java.lang.String"__concat*
+ 	  (
+""*
+   (
+ b
+`
+   (
+%1domain.User"__id*;
+
+__unknown_file (*
+domain.Balorazioa"
+norkéã
+   (&
+%2java.lang.String")domain.User#toString2()Ljava/lang/String;*/
+
+__unknown_file (
+
+%1domain.User2toString2()z
+x
+ 	  (&
+%3java.lang.String"__concat*$
+ 	  (
+
+%0java.lang.String*$
+   (&
+
+%2java.lang.Stringe
+c
+ )  (-
+%4java.util.Date"__id*;
+
+__unknown_file (*
+domain.Balorazioa"
+dataíè
+ )  (8
+%5java.lang.String"+java.util.Date#toString()Ljava/lang/String;*2
+
+__unknown_file (
+
+%4java.util.Date2
+toString()z
+x
+ 	  (8
+%6java.lang.String"__concat*$
+ 	  (&
+
+%3java.lang.String*$
+ )  (8
+
+%5java.lang.String"$
+   (9
+
+%6java.lang.StringB
+domain.BalorazioaH

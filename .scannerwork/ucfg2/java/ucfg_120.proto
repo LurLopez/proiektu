@@ -1,0 +1,87 @@
+
++gui.AdministratzaileaGUI#%field_initializer
+__unknown_file ("1*í
+1 (†
+ù
+Y
+O/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AdministratzaileaGUI.java   (6&
+gui.AdministratzaileaGUI"
+facade"__id*
+ (
+""íè
+Y
+O/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AdministratzaileaGUI.java!, !(5
+%0javax.swing.JComboBox"javax.swing.JComboBox∞
+≠
+Y
+O/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AdministratzaileaGUI.java!( !(7
+%1"javax.swing.JComboBox#<init>()V*)
+ (
+
+%0javax.swing.JComboBox√
+¿
+Y
+O/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AdministratzaileaGUI.java! !(82
+gui.AdministratzaileaGUI"
+BidaiakErreserbatu"__id*)
+ (
+
+%0javax.swing.JComboBoxíè
+Y
+O/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AdministratzaileaGUI.java", "(5
+%2javax.swing.JComboBox"javax.swing.JComboBox∞
+≠
+Y
+O/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AdministratzaileaGUI.java"( "(7
+%3"javax.swing.JComboBox#<init>()V*)
+ (
+
+%2javax.swing.JComboBox√
+¿
+Y
+O/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AdministratzaileaGUI.java" "(82
+gui.AdministratzaileaGUI"
+ErreserbakComboBox"__id*)
+ (
+
+%2javax.swing.JComboBoxûõ
+Y
+O/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AdministratzaileaGUI.java&$ &(8!
+%4domain.FuntzioLaguntzaileak"domain.FuntzioLaguntzaileakº
+π
+Y
+O/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AdministratzaileaGUI.java&  &(:
+%5"%domain.FuntzioLaguntzaileak#<init>()V*/
+ (#
+!
+%4domain.FuntzioLaguntzaileak∏
+µ
+Y
+O/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AdministratzaileaGUI.java& &(;!
+gui.AdministratzaileaGUI"
+f"__id*/
+ (#
+!
+%4domain.FuntzioLaguntzaileakxv
+Y
+O/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AdministratzaileaGUI.java(( ((8
+%6"java.util.ArrayListó
+î
+Y
+O/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AdministratzaileaGUI.java($ ((:
+%7"java.util.ArrayList#<init>()V*
+ (
+
+%6£
+†
+Y
+O/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AdministratzaileaGUI.java( ((;)
+gui.AdministratzaileaGUI"
+	mezulista"__id*
+ (
+
+%6"o
+X
+O/home/lur/eclipse-workspace/Rides24/src/main/java/gui/AdministratzaileaGUI.java ¡(
+implicit returnB
+gui.AdministratzaileaGUI

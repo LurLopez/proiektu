@@ -1,0 +1,55 @@
+
+GdataAccess.DataAccess#ErabiltzaileaFreskatu(Ldomain/User;)Ldomain/User;X
+L/home/lur/eclipse-workspace/Rides24/src/main/java/dataAccess/DataAccess.javaÐ Ð(""3*î
+2
+Ô Ô(‹ˆ
+
+Ô Ô("
+%1java.lang.String"'domain.User#getName()Ljava/lang/String;*.
+
+__unknown_file (
+
+udomain.User2	getName()J
+H
+
+Ô Ô(#
+rdomain.User"__id*"
+
+__unknown_file (
+""*
+1*Û
+3
+Ñ Ñ(J
+H
+
+Ò Ò(
+rdomain.User"__id*"
+
+__unknown_file (
+""v
+t
+
+Ó Ó(
+%0boolean"	__compare*
+
+Ó Ó(
+!=* 
+
+Ó Ó(
+
+udomain.User*
+
+Ó Ó(
+""*
+2
+1*1
+1
+Ö Ö(" 
+
+× ×(
+
+rdomain.User:
+
+Ð# Ð()
+udomain.UserB
+dataAccess.DataAccessH

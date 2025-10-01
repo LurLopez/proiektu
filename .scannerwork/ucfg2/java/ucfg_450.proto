@@ -1,0 +1,124 @@
+
+(domain.Ride#toString()Ljava/lang/String;N
+B/home/lur/eclipse-workspace/Rides24/src/main/java/domain/Ride.java½ ½("1*“
+
+1
+¾	 ¾(j
+h
+
+¾	 ¾(
+%0java.lang.Integer"__id*;
+
+__unknown_file (*
+domain.Ride"
+
+rideNumbern
+l
+
+¾	 ¾(
+%1java.lang.String"__concat*'
+
+¾	 ¾(
+
+%0java.lang.Integer*
+
+¾ ¾(
+;m
+k
+
+¾	 ¾(
+%2java.lang.String"__concat*&
+
+¾	 ¾(
+
+%1java.lang.String*
+
+¾ ¾(
+;c
+a
+
+¾ ¾( 
+%3java.lang.String"__id*5
+
+__unknown_file (*
+domain.Ride"
+from€
+~
+
+¾	 ¾( 
+%4java.lang.String"__concat*&
+
+¾	 ¾(
+
+%2java.lang.String*&
+
+¾ ¾( 
+
+%3java.lang.Stringm
+k
+
+¾	 ¾($
+%5java.lang.String"__concat*&
+
+¾	 ¾( 
+
+%4java.lang.String*
+
+¾! ¾($
+;a
+_
+
+¾% ¾('
+%6java.lang.String"__id*3
+
+__unknown_file (*
+domain.Ride"
+to€
+~
+
+¾	 ¾('
+%7java.lang.String"__concat*&
+
+¾	 ¾($
+
+%5java.lang.String*&
+
+¾% ¾('
+
+%6java.lang.Stringm
+k
+
+¾	 ¾(+
+%8java.lang.String"__concat*&
+
+¾	 ¾('
+
+%7java.lang.String*
+
+¾( ¾(+
+;a
+_
+
+¾, ¾(0
+%9java.util.Date"__id*5
+
+__unknown_file (*
+domain.Ride"
+date
+}
+
+¾	 ¾(0
+%10java.lang.String"__concat*&
+
+¾	 ¾(+
+
+%8java.lang.String*$
+
+¾, ¾(0
+
+%9java.util.Date"'
+
+¾ ¾(1
+
+%10java.lang.StringB
+domain.RideH

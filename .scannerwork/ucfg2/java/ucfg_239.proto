@@ -1,0 +1,69 @@
+
+&gui.ProfilaIkusiGUI#%field_initializer
+__unknown_file ("1*Ò
+1 (ñ
+ì
+T
+J/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ProfilaIkusiGUI.java (6!
+gui.ProfilaIkusiGUI"
+facade"__id*
+ (
+""çä
+T
+J/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ProfilaIkusiGUI.java- (6
+%0javax.swing.JComboBox"javax.swing.JComboBox´
+®
+T
+J/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ProfilaIkusiGUI.java) (8
+%1"javax.swing.JComboBox#<init>()V*)
+ (
+
+%0javax.swing.JComboBox∫
+∑
+T
+J/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ProfilaIkusiGUI.java (9.
+gui.ProfilaIkusiGUI"
+BalorazioakComboBox"__id*)
+ (
+
+%0javax.swing.JComboBoxôñ
+T
+J/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ProfilaIkusiGUI.java!$ !(8!
+%2domain.FuntzioLaguntzaileak"domain.FuntzioLaguntzaileak∑
+¥
+T
+J/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ProfilaIkusiGUI.java!  !(:
+%3"%domain.FuntzioLaguntzaileak#<init>()V*/
+ (#
+!
+%2domain.FuntzioLaguntzaileakÆ
+´
+T
+J/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ProfilaIkusiGUI.java! !(;
+gui.ProfilaIkusiGUI"
+f"__id*/
+ (#
+!
+%2domain.FuntzioLaguntzaileakáÑ
+T
+J/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ProfilaIkusiGUI.java" "(
+%4javax.swing.JLabel"javax.swing.JLabel•
+¢
+T
+J/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ProfilaIkusiGUI.java" "(
+%5"javax.swing.JLabel#<init>()V*&
+ (
+
+%4javax.swing.JLabel®
+•
+T
+J/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ProfilaIkusiGUI.java" "(
+gui.ProfilaIkusiGUI"
+Nota"__id*&
+ (
+
+%4javax.swing.JLabel"j
+S
+J/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ProfilaIkusiGUI.java •(
+implicit returnB
+gui.ProfilaIkusiGUI

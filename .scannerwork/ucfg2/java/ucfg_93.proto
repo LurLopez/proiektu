@@ -1,0 +1,145 @@
+
+-gui.ErreklamazioakIkusiGUI#%field_initializer
+__unknown_file ("1*¯
+1 (§
+°
+[
+Q/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErreklamazioakIkusiGUI.java   (6(
+gui.ErreklamazioakIkusiGUI"
+facade"__id*
+ (
+""îë
+[
+Q/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErreklamazioakIkusiGUI.java!, !(5
+%0javax.swing.JComboBox"javax.swing.JComboBox≤
+Ø
+[
+Q/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErreklamazioakIkusiGUI.java!( !(7
+%1"javax.swing.JComboBox#<init>()V*)
+ (
+
+%0javax.swing.JComboBox«
+ƒ
+[
+Q/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErreklamazioakIkusiGUI.java! !(84
+gui.ErreklamazioakIkusiGUI"
+BidaiakErreserbatu"__id*)
+ (
+
+%0javax.swing.JComboBoxîë
+[
+Q/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErreklamazioakIkusiGUI.java", "(5
+%2javax.swing.JComboBox"javax.swing.JComboBox≤
+Ø
+[
+Q/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErreklamazioakIkusiGUI.java"( "(7
+%3"javax.swing.JComboBox#<init>()V*)
+ (
+
+%2javax.swing.JComboBox«
+ƒ
+[
+Q/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErreklamazioakIkusiGUI.java" "(84
+gui.ErreklamazioakIkusiGUI"
+ErreserbakComboBox"__id*)
+ (
+
+%2javax.swing.JComboBox†ù
+[
+Q/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErreklamazioakIkusiGUI.java&$ &(8!
+%4domain.FuntzioLaguntzaileak"domain.FuntzioLaguntzaileakæ
+ª
+[
+Q/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErreklamazioakIkusiGUI.java&  &(:
+%5"%domain.FuntzioLaguntzaileak#<init>()V*/
+ (#
+!
+%4domain.FuntzioLaguntzaileakº
+π
+[
+Q/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErreklamazioakIkusiGUI.java& &(;#
+gui.ErreklamazioakIkusiGUI"
+f"__id*/
+ (#
+!
+%4domain.FuntzioLaguntzaileakzx
+[
+Q/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErreklamazioakIkusiGUI.java(( ((8
+%6"java.util.ArrayListô
+ñ
+[
+Q/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErreklamazioakIkusiGUI.java($ ((:
+%7"java.util.ArrayList#<init>()V*
+ (
+
+%6ß
+§
+[
+Q/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErreklamazioakIkusiGUI.java( ((;+
+gui.ErreklamazioakIkusiGUI"
+	mezulista"__id*
+ (
+
+%6îë
+[
+Q/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErreklamazioakIkusiGUI.java*0 *(9
+%8javax.swing.JComboBox"javax.swing.JComboBox≤
+Ø
+[
+Q/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErreklamazioakIkusiGUI.java*, *(;
+%9"javax.swing.JComboBox#<init>()V*)
+ (
+
+%8javax.swing.JComboBoxÀ
+»
+[
+Q/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErreklamazioakIkusiGUI.java* *(<8
+gui.ErreklamazioakIkusiGUI"
+ErreklamazioakComboBox"__id*)
+ (
+
+%8javax.swing.JComboBoxõò
+[
+Q/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErreklamazioakIkusiGUI.java++ +(7
+%10javax.swing.JRadioButton"javax.swing.JRadioButton·
+ﬁ
+\
+Q/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErreklamazioakIkusiGUI.java+' +(ê
+%11"4javax.swing.JRadioButton#<init>(Ljava/lang/String;)V*-
+ (!
+
+%10javax.swing.JRadioButton*
+ (
+""–
+Õ
+\
+Q/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErreklamazioakIkusiGUI.java+ +(ë8
+gui.ErreklamazioakIkusiGUI"
+ErreklamatzaileaAukera"__id*-
+ (!
+
+%10javax.swing.JRadioButtonõò
+[
+Q/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErreklamazioakIkusiGUI.java,' ,(3
+%12javax.swing.JRadioButton"javax.swing.JRadioButton·
+ﬁ
+\
+Q/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErreklamazioakIkusiGUI.java,# ,(à
+%13"4javax.swing.JRadioButton#<init>(Ljava/lang/String;)V*-
+ (!
+
+%12javax.swing.JRadioButton*
+ (
+""Ã
+…
+\
+Q/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErreklamazioakIkusiGUI.java, ,(â4
+gui.ErreklamazioakIkusiGUI"
+ErreklamatuaAukera"__id*-
+ (!
+
+%12javax.swing.JRadioButton"q
+Z
+Q/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErreklamazioakIkusiGUI.java Ç(
+implicit returnB
+gui.ErreklamazioakIkusiGUI

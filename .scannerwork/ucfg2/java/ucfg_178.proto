@@ -1,0 +1,79 @@
+
+Qdomain.User#doesRideExists(Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;)ZN
+B/home/lur/eclipse-workspace/Rides24/src/main/java/domain/User.java¨ ¨("1"6*%
+3
+« «("
+
+« «(
+""*
+4
+ªe ª(iä
+á
+ªe ª(
+%2"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*"
+
+__unknown_file (
+""*4
+
+__unknown_file (
+
+datejava.util.Date*	
+3
+6
+1*€
+5
+ª9 ª(=ã
+à
+
+ª9 ª(_
+%1"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*"
+
+__unknown_file (
+""*4
+
+__unknown_file (
+
+tojava.lang.String*	
+4
+6
+1*‚
+6
+ª	 ª(å
+â
+
+ª	 ª(3
+%0"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*"
+
+__unknown_file (
+""*6
+
+__unknown_file (
+
+fromjava.lang.String*	
+5
+6
+1*%
+1
+­	 ­("
+
+­ ­(
+"":&
+
+¨ ¨(+
+fromjava.lang.String:$
+
+¨, ¨(6
+tojava.lang.String:$
+
+¨7 ¨(@
+datejava.util.DateB
+domain.UserHX

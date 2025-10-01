@@ -1,0 +1,3469 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:07:48 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 12524@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:07:51 #2 type.registry] 
+New type domain.User
+
+[2025-03-28 18:07:51 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:07:51 #4 type.registry] 
+New type domain.Mugimendua
+
+[2025-03-28 18:07:51 #5 type.registry] 
+New type domain.Ride
+
+[2025-03-28 18:07:51 #6 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:07:51 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:07:51 #8 type.registry] 
+New type domain.Driver
+
+[2025-03-28 18:07:51 #9 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:07:51 #10 type.registry] 
+New type domain.Kotxe
+
+[2025-03-28 18:07:51 #11 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:07:56 #12 type.registry] 
+New type domain.Traveler
+
+[2025-03-28 18:07:56 #13 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 18:07:56 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-03-28 18:07:56 #15 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-03-28 18:07:56 #16 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:09:05 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 1-9)
+
+[2025-03-28 18:09:05 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 12637@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:09:05 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:09:05 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:09:05 #5 type.registry] 
+New type java.time.LocalDateTime
+
+[2025-03-28 18:09:05 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:09:05 #7 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:09:05 #8 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:09:05 #9 type] 
+Type domain.Traveler is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:10:06 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 10-11)
+
+[2025-03-28 18:10:06 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 12763@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:10:06 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:10:06 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:10:06 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:10:06 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:10:06 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:10:06 #8 type] 
+Type domain.Traveler is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:10:25 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 12816@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:10:25 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:10:25 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:10:25 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:10:25 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:10:25 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:10:25 #7 type] 
+Type domain.Traveler is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:12:13 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 12-12)
+
+[2025-03-28 18:12:13 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 12938@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:12:13 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:12:13 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:12:13 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:12:13 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:12:13 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:12:13 #8 type] 
+Type domain.Traveler is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:13:31 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 13068@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:13:32 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:13:32 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:13:32 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:13:32 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:13:32 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:13:32 #7 type] 
+Type domain.Traveler is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:13:43 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 13-13)
+
+[2025-03-28 18:13:43 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 13118@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:13:43 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:13:43 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:13:43 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:13:43 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:13:43 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:13:43 #8 type] 
+Type domain.Traveler is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:16:41 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 14-15)
+
+[2025-03-28 18:16:41 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 13451@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:16:41 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:16:41 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:16:41 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:16:41 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:16:41 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:16:41 #8 type] 
+Type domain.Traveler is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:16:44 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 13491@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:16:44 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:16:44 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:16:44 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:16:44 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:16:44 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:16:44 #7 type] 
+Type domain.Traveler is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:17:23 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 16-16)
+
+[2025-03-28 18:17:23 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 13630@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:17:23 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:17:23 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:17:23 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:17:23 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:17:23 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:17:23 #8 type] 
+Type domain.Traveler is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:19:26 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 17-18)
+
+[2025-03-28 18:19:26 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 13789@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:19:26 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:19:26 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:19:26 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:19:26 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:19:26 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:19:26 #8 type] 
+Type domain.Traveler is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:20:07 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 13893@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:20:07 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:20:07 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:20:07 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:20:07 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:20:07 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:20:07 #7 type] 
+Type domain.Traveler is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:22:15 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 14032@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:22:15 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:22:15 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:22:15 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:22:15 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:22:15 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:22:15 #7 type] 
+Type domain.Traveler is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:22:17 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 14074@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:22:17 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:22:17 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:22:17 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:22:17 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:22:17 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:22:17 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 18:22:26 #8 type.registry] 
+New type java.util.Vector<domain.Kotxe>
+
+[2025-03-28 18:22:59 #9 type.registry] 
+New type domain.Erreserba
+
+[2025-03-28 18:22:59 #10 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:23:11 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 19-28)
+
+[2025-03-28 18:23:11 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 14143@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:23:11 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:23:11 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:23:11 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:23:11 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:23:11 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:23:11 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 18:23:11 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:25:26 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 14373@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:25:26 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:25:26 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:25:26 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:25:26 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:25:26 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:25:26 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 18:25:26 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:26:58 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 29-44)
+
+[2025-03-28 18:26:58 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 14605@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:26:58 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:26:58 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:26:58 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:26:58 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:26:58 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:26:58 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 18:26:58 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:33:47 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 15156@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:33:47 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:33:47 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:33:47 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:33:47 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:33:47 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:33:47 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 18:33:47 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:37:48 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 15456@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:37:48 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:37:48 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:37:48 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:37:48 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:37:48 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:37:48 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 18:37:48 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:38:05 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 15534@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:38:05 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:38:05 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:38:05 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:38:05 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:38:05 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:38:05 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 18:38:05 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:39:30 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 15689@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:39:30 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:39:30 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:39:30 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:39:30 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:39:30 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:39:30 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 18:39:30 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:49:34 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 16574@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:49:34 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:49:34 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:49:34 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:49:34 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:49:34 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:49:34 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 18:49:34 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:50:51 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 45-45)
+
+[2025-03-28 18:50:51 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 16786@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:50:51 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:50:51 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:50:51 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:50:51 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:50:51 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:50:51 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 18:50:51 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:52:03 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 46-49)
+
+[2025-03-28 18:52:03 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 16903@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:52:03 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:52:03 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:52:03 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:52:03 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:52:03 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:52:03 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 18:52:03 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:52:20 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 50-50)
+
+[2025-03-28 18:52:20 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 16952@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:52:20 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:52:20 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:52:20 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:52:20 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:52:20 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:52:20 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 18:52:20 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:55:28 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 51-51)
+
+[2025-03-28 18:55:28 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 17262@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:55:28 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:55:28 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:55:28 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:55:28 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:55:28 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:55:28 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 18:55:28 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 18:57:28 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 52-52)
+
+[2025-03-28 18:57:28 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 17380@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 18:57:28 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 18:57:28 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 18:57:28 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 18:57:28 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 18:57:28 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 18:57:28 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 18:57:28 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:00:12 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 17662@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:00:12 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:00:12 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:00:12 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:00:12 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:00:12 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:00:12 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:00:12 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:00:32 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 100-101)
+
+[2025-03-28 19:00:32 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 17718@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:00:32 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:00:32 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:00:32 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:00:32 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:00:32 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:00:32 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:00:32 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:00:49 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 102-102)
+
+[2025-03-28 19:00:49 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 17764@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:00:49 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:00:49 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:00:49 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:00:49 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:00:49 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:00:49 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:00:49 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:01:20 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 103-107)
+
+[2025-03-28 19:01:20 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 17844@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:01:20 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:01:20 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:01:20 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:01:20 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:01:20 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:01:20 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:01:20 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:01:41 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 108-125)
+
+[2025-03-28 19:01:41 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 17899@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:01:42 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:01:42 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:01:42 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:01:42 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:01:42 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:01:42 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:01:42 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:02:06 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 17985@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:02:06 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:02:06 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:02:06 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:02:06 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:02:06 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:02:06 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:02:06 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:03:40 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 18113@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:03:40 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:03:40 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:03:40 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:03:40 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:03:40 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:03:40 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:03:40 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:04:13 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 126-129)
+
+[2025-03-28 19:04:13 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 18168@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:04:13 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:04:13 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:04:13 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:04:13 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:04:13 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:04:13 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:04:14 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:04:26 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 18222@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:04:26 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:04:26 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:04:26 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:04:26 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:04:26 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:04:26 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:04:26 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:12:54 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 18862@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:12:54 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:12:54 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:12:54 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:12:54 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:12:54 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:12:54 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:12:54 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:14:12 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 18962@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:14:12 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:14:12 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:14:12 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:14:12 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:14:12 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:14:12 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:14:12 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:14:14 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 18999@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:14:14 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:14:14 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:14:14 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:14:14 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:14:14 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:14:14 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:14:14 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:38:52 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 130-133)
+
+[2025-03-28 19:38:52 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 20053@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:38:52 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:38:52 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:38:52 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:38:52 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:38:52 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:38:52 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:38:52 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:40:23 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 20304@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:40:23 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:40:23 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:40:23 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:40:23 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:40:23 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:40:23 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:40:23 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:41:04 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 159-167)
+
+[2025-03-28 19:41:04 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 20367@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:41:04 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:41:04 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:41:04 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:41:04 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:41:04 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:41:04 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:41:04 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:41:20 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 168-189)
+
+[2025-03-28 19:41:20 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 20416@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:41:20 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:41:20 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:41:20 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:41:20 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:41:20 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:41:20 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:41:20 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:41:51 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 190-203)
+
+[2025-03-28 19:41:51 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 20490@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:41:51 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:41:51 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:41:51 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:41:51 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:41:51 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:41:51 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:41:51 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:43:32 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 20696@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:43:32 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:43:32 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:43:33 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:43:33 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:43:33 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:43:33 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:43:33 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:44:14 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 229-231)
+
+[2025-03-28 19:44:14 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 20770@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:44:14 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:44:14 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:44:14 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:44:14 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:44:14 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:44:14 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:44:14 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:44:25 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 20816@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:44:26 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:44:26 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:44:26 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:44:26 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:44:26 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:44:26 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:44:26 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:44:35 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 232-235)
+
+[2025-03-28 19:44:35 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 20859@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:44:36 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:44:36 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:44:36 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:44:36 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:44:36 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:44:36 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:44:36 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:44:56 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 236-269)
+
+[2025-03-28 19:44:56 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 20948@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:44:56 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:44:56 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:44:56 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:44:56 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:44:56 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:44:56 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:44:56 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:45:20 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 270-291)
+
+[2025-03-28 19:45:20 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 20997@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:45:20 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:45:20 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:45:20 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:45:20 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:45:20 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:45:20 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:45:20 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:45:34 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 292-295)
+
+[2025-03-28 19:45:34 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 21046@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:45:34 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:45:34 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:45:34 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:45:34 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:45:34 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:45:34 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:45:34 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:45:44 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 296-328)
+
+[2025-03-28 19:45:44 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 21094@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:45:44 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:45:44 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:45:44 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:45:44 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:45:44 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:45:44 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:45:44 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:45:50 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 21136@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:45:50 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:45:50 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:45:50 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:45:50 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:45:50 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:45:50 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:45:50 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:46:02 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 21184@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:46:02 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:46:02 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:46:02 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:46:02 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:46:02 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:46:02 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:46:02 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:49:04 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 329-350)
+
+[2025-03-28 19:49:05 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 21444@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:49:05 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:49:05 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:49:05 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:49:05 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:49:05 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:49:05 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:49:05 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:49:22 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 351-354)
+
+[2025-03-28 19:49:22 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 21486@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:49:22 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:49:22 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:49:22 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:49:22 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:49:22 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:49:22 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:49:22 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:49:30 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 355-381)
+
+[2025-03-28 19:49:30 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 21541@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:49:30 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:49:30 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:49:30 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:49:30 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:49:30 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:49:30 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:49:30 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:51:03 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 382-399)
+
+[2025-03-28 19:51:03 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 21738@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:51:03 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:51:03 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:51:03 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:51:03 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:51:03 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:51:03 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:51:03 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:51:17 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 400-403)
+
+[2025-03-28 19:51:17 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 21776@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:51:17 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:51:18 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:51:18 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:51:18 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:51:18 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:51:18 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:51:18 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:51:32 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 404-427)
+
+[2025-03-28 19:51:32 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 21830@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:51:32 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:51:32 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:51:32 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:51:32 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:51:32 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:51:32 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:51:32 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:53:17 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 428-443)
+
+[2025-03-28 19:53:17 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 21983@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:53:17 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:53:17 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:53:17 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:53:17 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:53:17 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:53:17 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:53:17 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:53:32 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 444-447)
+
+[2025-03-28 19:53:32 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 22037@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:53:32 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:53:32 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:53:32 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:53:32 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:53:32 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:53:32 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:53:32 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:53:46 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 448-465)
+
+[2025-03-28 19:53:46 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 22087@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:53:46 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:53:46 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:53:46 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:53:46 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:53:46 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:53:46 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:53:46 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:57:32 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 22409@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:57:32 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:57:32 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:57:32 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:57:32 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:57:32 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:57:32 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:57:32 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:57:50 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 478-481)
+
+[2025-03-28 19:57:50 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 22459@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:57:50 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:57:50 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:57:50 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:57:50 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:57:50 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:57:50 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:57:50 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 19:58:38 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 482-496)
+
+[2025-03-28 19:58:38 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 22531@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 19:58:38 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 19:58:38 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 19:58:38 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 19:58:38 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 19:58:38 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 19:58:38 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 19:58:38 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 20:14:12 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 497-506)
+
+[2025-03-28 20:14:12 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 23526@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 20:14:12 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 20:14:12 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 20:14:12 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 20:14:12 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 20:14:12 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 20:14:12 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 20:14:12 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 20:19:27 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 507-507)
+
+[2025-03-28 20:19:27 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 23976@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 20:19:27 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 20:19:27 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 20:19:27 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 20:19:27 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 20:19:27 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 20:19:27 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 20:19:27 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 20:25:01 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 24508@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 20:25:01 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 20:25:01 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 20:25:01 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 20:25:01 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 20:25:01 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 20:25:01 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 20:25:01 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 20:26:54 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 24828@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 20:26:54 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 20:26:54 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 20:26:54 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 20:26:54 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 20:26:54 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 20:26:54 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 20:26:54 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 20:30:23 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 25122@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 20:30:23 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 20:30:23 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 20:30:23 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 20:30:23 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 20:30:23 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 20:30:23 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 20:30:23 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 20:44:52 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 26415@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 20:44:52 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 20:44:52 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 20:44:52 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 20:44:52 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 20:44:52 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 20:44:52 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 20:44:52 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 20:45:35 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 508-508)
+
+[2025-03-28 20:45:35 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 26751@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 20:45:35 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 20:45:35 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 20:45:35 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 20:45:35 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 20:45:35 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 20:45:35 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 20:45:35 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 20:45:51 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 26821@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 20:45:51 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 20:45:51 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 20:45:51 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 20:45:51 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 20:45:51 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 20:45:51 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 20:45:51 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 20:45:56 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 26865@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 20:45:56 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 20:45:56 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 20:45:56 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 20:45:56 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 20:45:56 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 20:45:56 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 20:45:56 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 20:46:00 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 26904@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 20:46:00 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 20:46:00 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 20:46:00 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 20:46:00 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 20:46:00 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 20:46:00 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 20:46:00 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 20:46:14 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 26951@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 20:46:14 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 20:46:14 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 20:46:14 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 20:46:14 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 20:46:14 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 20:46:14 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 20:46:14 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 20:46:19 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 26991@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 20:46:19 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 20:46:19 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 20:46:19 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 20:46:19 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 20:46:19 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 20:46:19 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 20:46:19 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 20:55:31 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 509-509)
+
+[2025-03-28 20:55:32 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 27388@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 20:55:32 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 20:55:32 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 20:55:32 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 20:55:32 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 20:55:32 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 20:55:32 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 20:55:32 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 21:02:35 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 28380@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 21:02:35 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 21:02:35 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 21:02:35 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 21:02:35 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 21:02:35 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 21:02:35 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 21:02:35 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 21:04:13 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 510-513)
+
+[2025-03-28 21:04:13 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 28463@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 21:04:13 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 21:04:13 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 21:04:13 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 21:04:13 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 21:04:13 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 21:04:13 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 21:04:13 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 21:04:26 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 514-534)
+
+[2025-03-28 21:04:27 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 28518@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 21:04:27 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 21:04:27 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 21:04:27 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 21:04:27 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 21:04:27 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 21:04:27 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 21:04:27 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 21:12:59 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 29483@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 21:12:59 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 21:12:59 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 21:12:59 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 21:12:59 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 21:12:59 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 21:12:59 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 21:12:59 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 21:14:53 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 535-536)
+
+[2025-03-28 21:14:53 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 29640@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 21:14:53 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 21:14:53 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 21:14:53 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 21:14:53 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 21:14:53 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 21:14:53 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 21:14:53 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 21:16:38 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' has been recovered (tr. 537-548)
+
+[2025-03-28 21:16:38 #2 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 29816@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 21:16:38 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 21:16:38 #4 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 21:16:38 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 21:16:38 #6 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 21:16:38 #7 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 21:16:38 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 21:16:38 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 21:25:54 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 31041@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 21:25:54 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 21:25:54 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 21:25:54 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 21:25:54 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 21:25:54 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 21:25:54 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 21:25:54 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 21:26:03 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 31092@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 21:26:03 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 21:26:03 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 21:26:03 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 21:26:03 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 21:26:03 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 21:26:03 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 21:26:03 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 21:27:58 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 31316@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 21:27:58 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 21:27:58 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 21:27:58 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 21:27:58 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 21:27:58 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 21:27:58 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 21:27:58 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 21:28:04 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 31357@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 21:28:04 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 21:28:04 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 21:28:04 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 21:28:04 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 21:28:04 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 21:28:04 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 21:28:04 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 21:30:23 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 31562@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 21:30:24 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 21:30:24 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 21:30:24 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 21:30:24 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 21:30:24 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 21:30:24 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 21:30:24 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 21:30:59 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 31645@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 21:30:59 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 21:30:59 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 21:30:59 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 21:30:59 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 21:30:59 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 21:30:59 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 21:30:59 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 21:32:19 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 31804@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 21:32:19 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 21:32:19 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 21:32:19 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 21:32:19 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 21:32:19 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 21:32:19 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 21:32:19 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 21:32:30 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 31855@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 21:32:30 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 21:32:30 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 21:32:30 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 21:32:30 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 21:32:30 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 21:32:30 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 21:32:30 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 22:28:05 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 34744@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 22:28:05 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 22:28:05 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 22:28:05 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 22:28:05 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 22:28:05 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 22:28:05 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 22:28:05 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 22:28:14 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 34791@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 22:28:14 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 22:28:14 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 22:28:14 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 22:28:14 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 22:28:14 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 22:28:14 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 22:28:14 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 22:30:28 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 35058@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 22:30:28 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 22:30:28 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 22:30:28 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 22:30:28 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 22:30:28 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 22:30:28 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 22:30:28 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 22:36:10 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 35570@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 22:36:10 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 22:36:10 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 22:36:10 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 22:36:10 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 22:36:10 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 22:36:10 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 22:36:10 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 22:38:39 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 35945@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 22:38:39 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 22:38:39 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 22:38:39 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 22:38:39 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 22:38:39 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 22:38:39 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 22:38:39 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 22:38:48 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 35987@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 22:38:48 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 22:38:48 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 22:38:48 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 22:38:48 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 22:38:48 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 22:38:48 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 22:38:48 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 22:43:28 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 36849@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 22:43:28 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 22:43:28 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 22:43:28 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 22:43:28 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 22:43:28 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 22:43:28 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 22:43:28 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 22:44:57 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 37217@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 22:44:57 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 22:44:57 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 22:44:57 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 22:44:57 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 22:44:57 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 22:44:57 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 22:44:57 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 22:45:40 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 37499@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 22:45:41 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 22:45:41 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 22:45:41 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 22:45:41 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 22:45:41 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 22:45:41 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 22:45:41 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 22:46:41 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 37691@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 22:46:42 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 22:46:42 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 22:46:42 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 22:46:42 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 22:46:42 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 22:46:42 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 22:46:42 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 22:48:00 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 37927@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 22:48:00 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 22:48:00 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 22:48:00 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 22:48:00 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 22:48:00 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 22:48:00 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 22:48:00 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 22:48:29 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 38007@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 22:48:29 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 22:48:29 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 22:48:29 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 22:48:29 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 22:48:29 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 22:48:29 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 22:48:29 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 22:49:13 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 38133@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 22:49:13 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 22:49:13 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 22:49:13 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 22:49:13 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 22:49:13 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 22:49:13 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 22:49:13 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 22:51:35 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 38657@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 22:51:35 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 22:51:35 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 22:51:35 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 22:51:35 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 22:51:35 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 22:51:35 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 22:51:35 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 22:52:01 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 38771@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 22:52:01 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 22:52:01 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 22:52:01 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 22:52:01 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 22:52:01 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 22:52:01 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 22:52:01 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 22:52:43 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 38943@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 22:52:43 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 22:52:43 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 22:52:43 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 22:52:43 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 22:52:43 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 22:52:43 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 22:52:43 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 22:54:03 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 39048@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 22:54:03 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 22:54:03 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 22:54:03 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 22:54:03 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 22:54:03 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 22:54:03 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 22:54:03 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 22:56:45 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 39260@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 22:56:46 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 22:56:46 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 22:56:46 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 22:56:46 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 22:56:46 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 22:56:46 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 22:56:46 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 22:57:41 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 39400@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 22:57:41 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 22:57:41 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 22:57:41 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 22:57:41 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 22:57:41 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 22:57:41 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 22:57:41 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 22:58:12 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 39486@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 22:58:12 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 22:58:12 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 22:58:12 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 22:58:12 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 22:58:12 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 22:58:12 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 22:58:12 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 22:59:25 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 39633@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 22:59:25 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 22:59:25 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 22:59:25 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 22:59:25 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 22:59:25 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 22:59:25 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 22:59:25 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 23:00:12 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 39750@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 23:00:12 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 23:00:12 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 23:00:12 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 23:00:12 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 23:00:12 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 23:00:12 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 23:00:12 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 23:01:27 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 39960@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 23:01:27 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 23:01:27 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 23:01:27 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 23:01:27 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 23:01:27 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 23:01:27 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 23:01:27 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 23:02:52 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 40179@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 23:02:52 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 23:02:52 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 23:02:52 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 23:02:52 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 23:02:52 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 23:02:52 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 23:02:52 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 23:10:04 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 40965@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 23:10:04 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 23:10:04 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 23:10:04 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 23:10:04 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 23:10:04 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 23:10:04 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 23:10:04 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 23:11:25 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 41147@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 23:11:25 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 23:11:25 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 23:11:25 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 23:11:25 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 23:11:25 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 23:11:25 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 23:11:25 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 23:11:51 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 41222@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 23:11:52 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 23:11:52 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 23:11:52 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 23:11:52 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 23:11:52 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 23:11:52 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 23:11:52 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 23:12:37 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 41376@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 23:12:37 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 23:12:37 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 23:12:37 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 23:12:37 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 23:12:37 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 23:12:37 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 23:12:37 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 23:13:52 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 41519@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 23:13:52 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 23:13:52 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 23:13:52 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 23:13:52 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 23:13:52 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 23:13:52 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 23:13:52 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 23:14:41 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 41644@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 23:14:41 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 23:14:41 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 23:14:41 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 23:14:41 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 23:14:41 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 23:14:41 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 23:14:41 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 23:20:02 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 41963@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 23:20:02 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 23:20:02 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 23:20:02 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 23:20:02 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 23:20:02 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 23:20:02 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 23:20:02 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 23:21:03 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 42295@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 23:21:04 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 23:21:04 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 23:21:04 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 23:21:04 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 23:21:04 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 23:21:04 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 23:21:04 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 23:22:23 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 42505@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 23:22:23 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 23:22:23 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 23:22:23 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 23:22:23 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 23:22:23 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 23:22:23 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 23:22:24 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 23:23:38 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 42577@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 23:23:39 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 23:23:39 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 23:23:39 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 23:23:39 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 23:23:39 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 23:23:39 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 23:23:39 #8 type] 
+Type domain.Erreserba is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-28 23:26:53 #1 store] 
+Database '/home/lur/eclipse-workspace/Rides24/src/main/resources/rides.temp' is opened by 42730@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-03-28 23:26:53 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-03-28 23:26:53 #3 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-03-28 23:26:53 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-28 23:26:53 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-28 23:26:53 #6 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-03-28 23:26:53 #7 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-03-28 23:26:53 #8 type] 
+Type domain.Erreserba is not enhanced.
+

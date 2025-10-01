@@ -1,0 +1,70 @@
+
+LdataAccess.DataAccess#balorazioakKargatu(Ldomain/User;)Ljava/util/ArrayList;X
+L/home/lur/eclipse-workspace/Rides24/src/main/java/dataAccess/DataAccess.javaä  ä(2"7*‡
+2
+î î(Cq
+o
+
+î î(C"
+balorazioakjava.util.ArrayList"__id*7
+
+__unknown_file (
+
+%3java.util.ArrayList*
+1*þ
+5
+î î(C><
+
+î î()
+%3java.util.ArrayList"java.util.ArrayList§
+¤
+
+î î(C
+%4"3java.util.ArrayList#<init>(Ljava/util/Collection;)V*7
+
+__unknown_file (
+
+%3java.util.ArrayList*"
+
+__unknown_file (
+""*
+2*é
+7
+å å(±®
+
+ê> ê(b
+%0java.lang.String"4domain.User#getErabiltzaileIzena()Ljava/lang/String;*:
+
+__unknown_file (
+
+erabiltzaileadomain.User2getErabiltzaileIzena()><
+
+ì* ì(?
+%1java.util.ArrayList"java.util.ArrayListl
+j
+
+ì& ì(A
+%2"java.util.ArrayList#<init>()V*7
+
+__unknown_file (
+
+%1java.util.ArrayListq
+o
+
+ì ì(B"
+balorazioakjava.util.ArrayList"__id*7
+
+__unknown_file (
+
+%1java.util.ArrayList*
+5*C
+1
+ò ò("2
+
+ò ò($
+"
+balorazioakjava.util.ArrayList:*
+
+ä3 ä(E
+erabiltzaileadomain.UserB
+dataAccess.DataAccessH

@@ -1,0 +1,159 @@
+
+vbusinessLogic.BLFacadeImplementation#balorazioaSortu(Ljava/lang/String;ILdomain/User;Ldomain/User;)Ldomain/Balorazioa;g
+[/home/lur/eclipse-workspace/Rides24/src/main/java/businessLogic/BLFacadeImplementation.java¶ ¶(""startingBlock*Ô
+startingBlock
+¶" ¶(Q
+Œ
+
+µ µ(
+
+%6"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*8
+
+__unknown_file (
+
+testuajava.lang.String\
+Z
+
+¶* ¶(0
+testuajava.lang.String"__annotation*"
+
+__unknown_file (
+
+%6ˆ
+…
+
+µ µ(
+
+%7"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*1
+
+__unknown_file (
+
+norkdomain.UserU
+S
+
+¶A ¶(E
+norkdomain.User"__annotation*"
+
+__unknown_file (
+
+%7ˆ
+…
+
+µ µ(
+
+%8"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*1
+
+__unknown_file (
+
+noridomain.UserU
+S
+
+¶L ¶(P
+noridomain.User"__annotation*"
+
+__unknown_file (
+
+%8*
+1*›
+
+1
+· ·(‡
+„
+
+· ·(
+%0dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager|z
+
+· ·(
+
+%1void"dataAccess.DataAccess#open()V*9
+
+__unknown_file (
+
+%0dataAccess.DataAccess2open()‡
+„
+
+¸ ¸("
+%2dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManagerÐÍ
+
+¸ ¸(L
+%3domain.Balorazioa"gdataAccess.DataAccess#balorazioaSortu(Ljava/lang/String;ILdomain/User;Ldomain/User;)Ldomain/Balorazioa;*9
+
+__unknown_file (
+
+%2dataAccess.DataAccess*8
+
+__unknown_file (
+
+testuajava.lang.String*"
+
+__unknown_file (
+""*1
+
+__unknown_file (
+
+norkdomain.User*1
+
+__unknown_file (
+
+noridomain.User2>balorazioaSortu(Ljava/lang/String;ILdomain/User;Ldomain/User;)k
+i
+
+¸ ¸(M
+	baloraziodomain.Balorazioa"__id*5
+
+__unknown_file (
+
+%3domain.Balorazioa‡
+„
+
+¹ ¹(
+%4dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager~|
+
+¹ ¹(
+
+%5void"dataAccess.DataAccess#close()V*9
+
+__unknown_file (
+
+%4dataAccess.DataAccess2close()".
+
+º º( 
+
+	baloraziodomain.Balorazioa:(
+
+¶# ¶(1
+testuajava.lang.String: 
+
+__unknown_file (
+"":!
+
+¶< ¶(F
+norkdomain.User:!
+
+¶G ¶(P
+noridomain.UserB(&
+$businessLogic.BLFacadeImplementationH

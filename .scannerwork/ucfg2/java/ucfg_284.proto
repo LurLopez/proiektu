@@ -1,0 +1,160 @@
+
+.domain.Mugimendua#toString()Ljava/lang/String;R
+H/home/lur/eclipse-workspace/Rides24/src/main/java/domain/Mugimendua.java[ [("1*ù
+1\ \(e
+c
+\ \('
+%0java.util.Date"__id*;
+
+__unknown_file (*
+domain.Mugimendua"
+data¸˘
+\ \((
+%1java.lang.String"Hdomain.Mugimendua#Data_ToStringerako(Ljava/util/Date;)Ljava/lang/String;*1
+
+__unknown_file (
+domain.Mugimendua*2
+
+__unknown_file (
+
+%0java.util.Date2$Data_ToStringerako(Ljava/util/Date;)_
+]
+\ \()
+djava.lang.String"__id*4
+
+__unknown_file (
+
+%1java.lang.Stringo
+m
+] ]($
+%2java.lang.String"__id*C
+
+__unknown_file ('*%
+domain.Mugimendua"
+datatoStringr
+p
+]	 ]($
+%3java.lang.String"__concat*
+]	 ](
+Mugimendua [*$
+] ]($
+
+%2java.lang.Stringg
+e
+]	 ]((
+%4java.lang.String"__concat*$
+]	 ]($
+
+%3java.lang.String*
+]% ]((
+:y
+w
+]	 ](*
+%5java.lang.String"__concat*$
+]	 ]((
+
+%4java.lang.String*#
+]) ](*
+
+djava.lang.Stringh
+f
+]	 ](/
+%6java.lang.String"__concat*$
+]	 ](*
+
+%5java.lang.String*
+]+ ](/
+, p
+n
+]4 ](A
+%7java.lang.String"__id*D
+
+__unknown_file ((*&
+domain.Mugimendua"
+mezuatoStringz
+x
+]	 ](A
+%8java.lang.String"__concat*$
+]	 ](/
+
+%6java.lang.String*$
+]4 ](A
+
+%7java.lang.Stringg
+e
+]	 ](E
+%9java.lang.String"__concat*$
+]	 ](A
+
+%8java.lang.String*
+]B ](E
+:o
+m
+]G ](R
+%10java.lang.String"__id*B
+
+__unknown_file (&*$
+domain.Mugimendua"
+mezuastring|
+z
+]	 ](R
+%11java.lang.String"__concat*$
+]	 ](E
+
+%9java.lang.String*%
+]G ](R
+
+%10java.lang.Stringj
+h
+]	 ](Y
+%12java.lang.String"__concat*%
+]	 ](R
+
+%11java.lang.String*
+]U ](Y
+, v
+t
+][ ](m
+%13java.lang.String"__id*I
+
+__unknown_file (-*+
+domain.Mugimendua"
+kantitateatoString}
+{
+]	 ](m
+%14java.lang.String"__concat*%
+]	 ](Y
+
+%12java.lang.String*%
+][ ](m
+
+%13java.lang.Stringi
+g
+]	 ](r
+%15java.lang.String"__concat*%
+]	 ](m
+
+%14java.lang.String*
+]o ](r
+:j
+h
+]	 ](
+%16java.lang.String"__concat*%
+]	 ](r
+
+%15java.lang.String*
+]u ](
+""l
+j
+	]	 ](Ö
+%17java.lang.String"__concat*%
+]	 ](
+
+%16java.lang.String*
+
+]Ç ](Ö
+]"&
+	] ](á
+
+%17java.lang.StringB
+domain.MugimenduaH

@@ -1,0 +1,102 @@
+
+-domain.Erreserba#toString()Ljava/lang/String;S
+G/home/lur/eclipse-workspace/Rides24/src/main/java/domain/Erreserba.java‘ ‘("3*‡
+2
+“	 “(\
+Z
+
+“	 “(
+%2java.lang.String"__concat*
+
+“	 “(
+""*
+
+“ “(
+;;k
+i
+
+“ “("
+%3domain.Traveler"__id*>
+
+__unknown_file ("* 
+domain.Erreserba"
+
+traveler
+
+“ “(,
+%4java.lang.String"'domain.User#getName()Ljava/lang/String;*3
+
+__unknown_file (
+
+%3domain.Traveler2	getName()€
+~
+
+“	 “(,
+%5java.lang.String"__concat*&
+
+“	 “(
+
+%2java.lang.String*&
+
+“ “(,
+
+%4java.lang.Stringm
+k
+
+“	 “(0
+%6java.lang.String"__concat*&
+
+“	 “(,
+
+%5java.lang.String*
+
+“- “(0
+;"&
+
+“ “(1
+
+%6java.lang.String*
+3
+’ ’(k
+i
+
+’ ’(
+%0domain.Traveler"__id*>
+
+__unknown_file ("* 
+domain.Erreserba"
+
+traveler{
+y
+
+’ ’(
+%1boolean"	__compare*
+
+’ ’(
+!=*%
+
+’ ’(
+
+%0domain.Traveler*
+
+’ ’(
+""*
+2
+1*•
+1
+• •(\
+Z
+
+• •(
+%7java.lang.String"__concat*
+
+• •(
+""*
+
+• •(
+;;"&
+
+• •(
+
+%7java.lang.StringB
+domain.ErreserbaH

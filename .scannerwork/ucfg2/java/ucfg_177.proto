@@ -1,0 +1,69 @@
+
+(domain.User#toString()Ljava/lang/String;N
+B/home/lur/eclipse-workspace/Rides24/src/main/java/domain/User.java“ “("1*Ð
+1
+”	 ”(p
+n
+
+”	 ”(
+%0java.lang.String"__id*B
+
+__unknown_file (&*$
+domain.User"
+erabiltzaileIzenas
+q
+
+”	 ”(
+%1"__calculate*
+
+” ”(
++*&
+
+”	 ”(
+
+%0java.lang.String*
+
+” ”(
+;h
+f
+
+” ”((
+%2java.lang.String"__id*:
+
+__unknown_file (*
+domain.User"
+	pasahitzat
+r
+
+”	 ”((
+%3"__calculate*
+
+” ”(
++*
+
+”	 ”(
+
+%1*&
+
+” ”((
+
+%2java.lang.Stringb
+`
+
+”	 ”(.
+%4"__calculate*
+
+”( ”()
++*
+
+”	 ”((
+
+%3*
+
+”) ”(.
+"""
+
+” ”(/
+
+%4B
+domain.UserH

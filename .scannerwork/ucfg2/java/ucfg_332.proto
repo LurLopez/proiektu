@@ -1,0 +1,72 @@
+
+VbusinessLogic.BLFacadeImplementation#ErabiltzaileaFreskatu(Ldomain/User;)Ldomain/User;g
+[/home/lur/eclipse-workspace/Rides24/src/main/java/businessLogic/BLFacadeImplementation.javaÔ Ô(""1*¥
+1
+Õ Õ(‡
+„
+
+Õ Õ(
+%0dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager|z
+
+Õ Õ(
+
+%1void"dataAccess.DataAccess#open()V*9
+
+__unknown_file (
+
+%0dataAccess.DataAccess2open()‡
+„
+
+Ö	 Ö(
+%2dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManagerüù
+
+Ö	 Ö(+
+%3domain.User"GdataAccess.DataAccess#ErabiltzaileaFreskatu(Ldomain/User;)Ldomain/User;*9
+
+__unknown_file (
+
+%2dataAccess.DataAccess*.
+
+__unknown_file (
+
+udomain.User2$ErabiltzaileaFreskatu(Ldomain/User;)W
+U
+
+Ö Ö(,
+rdomain.User"__id*/
+
+__unknown_file (
+
+%3domain.User‡
+„
+
+× ×(
+%4dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager~|
+
+× ×(
+
+%5void"dataAccess.DataAccess#close()V*9
+
+__unknown_file (
+
+%4dataAccess.DataAccess2close()" 
+
+Ø Ø(
+
+rdomain.User:
+
+Ô# Ô()
+udomain.UserB(&
+$businessLogic.BLFacadeImplementationH

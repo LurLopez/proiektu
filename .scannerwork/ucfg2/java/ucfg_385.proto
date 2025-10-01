@@ -1,0 +1,87 @@
+
+1gui.ErabiltzaileMezuaGehituGUI#%field_initializer
+__unknown_file ("1*Ñ
+1 (¨
+©
+_
+U/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErabiltzaileMezuaGehituGUI.java   (6, 
+gui.ErabiltzaileMezuaGehituGUI"
+facade"__id*
+ (
+""òï
+_
+U/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErabiltzaileMezuaGehituGUI.java!, !(5
+%0javax.swing.JComboBox"javax.swing.JComboBox∂
+≥
+_
+U/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErabiltzaileMezuaGehituGUI.java!( !(7
+%1"javax.swing.JComboBox#<init>()V*)
+ (
+
+%0javax.swing.JComboBoxœ
+Ã
+_
+U/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErabiltzaileMezuaGehituGUI.java! !(88 
+gui.ErabiltzaileMezuaGehituGUI"
+BidaiakErreserbatu"__id*)
+ (
+
+%0javax.swing.JComboBoxòï
+_
+U/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErabiltzaileMezuaGehituGUI.java", "(5
+%2javax.swing.JComboBox"javax.swing.JComboBox∂
+≥
+_
+U/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErabiltzaileMezuaGehituGUI.java"( "(7
+%3"javax.swing.JComboBox#<init>()V*)
+ (
+
+%2javax.swing.JComboBoxœ
+Ã
+_
+U/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErabiltzaileMezuaGehituGUI.java" "(88 
+gui.ErabiltzaileMezuaGehituGUI"
+ErreserbakComboBox"__id*)
+ (
+
+%2javax.swing.JComboBox§°
+_
+U/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErabiltzaileMezuaGehituGUI.java&$ &(8!
+%4domain.FuntzioLaguntzaileak"domain.FuntzioLaguntzaileak¬
+ø
+_
+U/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErabiltzaileMezuaGehituGUI.java&  &(:
+%5"%domain.FuntzioLaguntzaileak#<init>()V*/
+ (#
+!
+%4domain.FuntzioLaguntzaileakƒ
+¡
+_
+U/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErabiltzaileMezuaGehituGUI.java& &(;' 
+gui.ErabiltzaileMezuaGehituGUI"
+f"__id*/
+ (#
+!
+%4domain.FuntzioLaguntzaileak~|
+_
+U/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErabiltzaileMezuaGehituGUI.java(( ((8
+%6"java.util.ArrayListù
+ö
+_
+U/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErabiltzaileMezuaGehituGUI.java($ ((:
+%7"java.util.ArrayList#<init>()V*
+ (
+
+%6Ø
+¨
+_
+U/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErabiltzaileMezuaGehituGUI.java( ((;/ 
+gui.ErabiltzaileMezuaGehituGUI"
+	mezulista"__id*
+ (
+
+%6"u
+^
+U/home/lur/eclipse-workspace/Rides24/src/main/java/gui/ErabiltzaileMezuaGehituGUI.java á(
+implicit returnB" 
+gui.ErabiltzaileMezuaGehituGUI

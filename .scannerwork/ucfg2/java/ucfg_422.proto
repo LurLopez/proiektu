@@ -1,0 +1,196 @@
+
+)domain.Mezua#ToString()Ljava/lang/String;M
+C/home/lur/eclipse-workspace/Rides24/src/main/java/domain/Mezua.java ("9*È
+2". "(:JH
+" "(- 
+%4java.text.SimpleDateFormat"java.text.SimpleDateFormat∑
+¥
+" "(;
+%5"6java.text.SimpleDateFormat#<init>(Ljava/lang/String;)V*>
+
+__unknown_file ("
+ 
+%4java.text.SimpleDateFormat**
+
+__unknown_file (
+
+yyyy-MM-ddu
+s
+" "(<!
+sdfjava.text.SimpleDateFormat"__id*>
+
+__unknown_file ("
+ 
+%4java.text.SimpleDateFormat`
+^
+# #(#
+%6java.util.Date"__id*6
+
+__unknown_file (*
+domain.Mezua"
+dataıÚ
+# #($
+%7java.lang.String"?java.text.DateFormat#format(Ljava/util/Date;)Ljava/lang/String;*?
+
+__unknown_file (#
+!
+sdfjava.text.SimpleDateFormat*2
+
+__unknown_file (
+
+%6java.util.Date2format(Ljava/util/Date;)*
+1*Î
+3   (`
+^
+! !(	
+%2java.util.Date"__id*6
+
+__unknown_file (*
+domain.Mezua"
+datar
+p
+! !(
+%3boolean"	__compare*
+!	 !(
+!=*"
+! !(	
+
+%2java.util.Date*
+! !(
+""*
+2
+1*h
+4 (T
+R
+ (
+norimezujava.lang.String"__id*"
+
+__unknown_file (
+""*
+3*w
+5 (,c
+a
+ (,
+norimezujava.lang.String"__id*1
+
+__unknown_file (
+Administratzailea*
+3*p
+6 (	Y
+W
+ (
+%1"	__compare*
+	 (
+==*
+ (	
+""*
+ (
+""*
+4
+5*h
+7 (T
+R
+ (
+norkmezujava.lang.String"__id*"
+
+__unknown_file (
+""*
+6*w
+8 (-c
+a
+ (-
+norkmezujava.lang.String"__id*1
+
+__unknown_file (
+Administratzailea*
+6*ú
+9 (T
+R
+ (
+norkmezujava.lang.String"__id*"
+
+__unknown_file (
+""T
+R
+ (
+norimezujava.lang.String"__id*"
+
+__unknown_file (
+""Y
+W
+ (
+%0"	__compare*
+	 (
+==*
+ (	
+""*
+ (
+""*
+7
+8*Ï
+1%
+ %(r
+p
+%
+ %(
+%8java.lang.String"__concat*
+%
+ %(
+
+nork: **
+% %(
+
+norkmezujava.lang.Stringm
+k
+%
+ %(&
+%9java.lang.String"__concat*$
+%
+ %(
+
+%8java.lang.String*
+% %(&	
+ nori: Å
+
+%
+ %(1
+%10java.lang.String"__concat*$
+%
+ %(&
+
+%9java.lang.String**
+%) %(1
+
+norimezujava.lang.Stringo
+m
+%
+ %(=
+%11java.lang.String"__concat*%
+%
+ %(1
+
+%10java.lang.String*
+%4 %(=	
+ data: a
+_
+%A %(E
+%12java.util.Date"__id*6
+
+__unknown_file (*
+domain.Mezua"
+data{
+y
+%
+ %(E
+%13java.lang.String"__concat*%
+%
+ %(=
+
+%11java.lang.String*#
+%A %(E
+
+%12java.util.Date"%
+% %(H
+
+%13java.lang.StringB
+domain.MezuaH

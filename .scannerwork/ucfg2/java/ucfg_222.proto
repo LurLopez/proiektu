@@ -1,0 +1,54 @@
+
+*domain.Alerta#toString()Ljava/lang/String;N
+D/home/lur/eclipse-workspace/Rides24/src/main/java/domain/Alerta.java] ]("1*Ô
+1^	 ^(e
+c
+^	 ^(
+%0java.lang.String"__id*9
+
+__unknown_file (*
+domain.Alerta"
+nondikc
+a
+^ ^(
+%1java.lang.String"__id*7
+
+__unknown_file (*
+domain.Alerta"
+noraz
+x
+^	 ^(
+%2java.lang.String"__concat*$
+^	 ^(
+
+%0java.lang.String*$
+^ ^(
+
+%1java.lang.Stringa
+_
+^ ^(
+%3java.util.Date"__id*7
+
+__unknown_file (*
+domain.Alerta"
+dataíè
+^ ^((
+%4java.lang.String"+java.util.Date#toString()Ljava/lang/String;*2
+
+__unknown_file (
+
+%3java.util.Date2
+toString()z
+x
+^	 ^((
+%5java.lang.String"__concat*$
+^	 ^(
+
+%2java.lang.String*$
+^ ^((
+
+%4java.lang.String"$
+^ ^()
+
+%5java.lang.StringB
+domain.AlertaH

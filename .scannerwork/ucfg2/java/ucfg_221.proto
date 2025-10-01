@@ -1,0 +1,241 @@
+
+)domain.Alerta#equals(Ljava/lang/Object;)ZN
+D/home/lur/eclipse-workspace/Rides24/src/main/java/domain/Alerta.javaI I("startingBlock*á
+startingBlockI I("ã
+à
+H H(
+
+%22"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+objjava.lang.ObjectX
+V
+I I(!
+objjava.lang.Object"__annotation*#
+
+__unknown_file (
+
+%22*
+12*≠
+7O O(!b
+`
+O O("
+alertadomain.Alerta"__id*5
+
+__unknown_file (
+
+objjava.lang.Objecte
+c
+Q Q(#
+%2java.lang.String"__id*9
+
+__unknown_file (*
+domain.Alerta"
+nondikñì
+Q5 Q(G
+%3java.lang.String"+domain.Alerta#getNondik()Ljava/lang/String;*5
+
+__unknown_file (
+
+alertadomain.Alerta2getNondik()Ê„
+Q Q(H
+%4boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*4
+
+__unknown_file (
+
+%2java.lang.String*4
+
+__unknown_file (
+
+%3java.lang.String2$equalsIgnoreCase(Ljava/lang/String;)c
+a
+R R(
+%5java.lang.String"__id*7
+
+__unknown_file (*
+domain.Alerta"
+noraíè
+R1 R(A
+%6java.lang.String")domain.Alerta#getNora()Ljava/lang/String;*5
+
+__unknown_file (
+
+alertadomain.Alerta2	getNora()Ê„
+R R(B
+%7boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*4
+
+__unknown_file (
+
+%5java.lang.String*4
+
+__unknown_file (
+
+%6java.lang.String2$equalsIgnoreCase(Ljava/lang/String;)f
+d
+S S(
+%8domain.Traveler"__id*;
+
+__unknown_file (*
+domain.Alerta"
+
+travelerY
+W
+S S(
+udomain.User"__id*3
+
+__unknown_file (
+
+%8domain.Traveleròï
+T T(*
+%9domain.Traveler",domain.Alerta#getTraveler()Ldomain/Traveler;*5
+
+__unknown_file (
+
+alertadomain.Alerta2getTraveler()Z
+X
+T T(+
+u2domain.User"__id*3
+
+__unknown_file (
+
+%9domain.Traveler√¿
+U U((
+%10boolean"'domain.User#equals(Ljava/lang/Object;)Z*.
+
+__unknown_file (
+
+udomain.User*/
+
+__unknown_file (
+
+u2domain.User2equals(Ljava/lang/Object;)b
+`
+W W(
+%11java.util.Date"__id*7
+
+__unknown_file (*
+domain.Alerta"
+dataèå
+W$ W(4
+%12java.util.Date"'domain.Alerta#getData()Ljava/util/Date;*5
+
+__unknown_file (
+
+alertadomain.Alerta2	getData()œÃ
+W W(5
+%13boolean"*java.util.Date#equals(Ljava/lang/Object;)Z*3
+
+__unknown_file (
+
+%11java.util.Date*3
+
+__unknown_file (
+
+%12java.util.Date2equals(Ljava/lang/Object;)R
+P
+X X(
+%14java.io.PrintStream"__id*"
+
+__unknown_file (
+""V
+T
+X X(&
+%15java.lang.String"__concat*
+X X( 
+""*
+X# X(&
+ j
+h
+X X(/
+%16java.lang.String"__concat*%
+X X(&
+
+%15java.lang.String*
+X) X(/
+""i
+g
+X X(5
+%17java.lang.String"__concat*%
+X X(/
+
+%16java.lang.String*
+X2 X(5
+ j
+h
+X X(D
+%18java.lang.String"__concat*%
+X X(5
+
+%17java.lang.String*
+X8 X(D
+""i
+g
+X X(J
+%19java.lang.String"__concat*%
+X X(D
+
+%18java.lang.String*
+XG X(J
+ j
+h
+X X(U
+%20java.lang.String"__concat*%
+X X(J
+
+%19java.lang.String*
+XM X(U
+""⁄◊
+X X(V
+%21void"0java.io.PrintStream#println(Ljava/lang/String;)V*8
+
+__unknown_file (
+
+%14java.io.PrintStream*5
+
+__unknown_file (
+
+%20java.lang.String2println(Ljava/lang/String;)*
+1*!
+8M M("
+M	 M(
+""*ç
+10L	 L(u
+s
+L	 L(
+%1boolean"	__compare*
+L L(
+==*%
+L	 L(
+
+objjava.lang.Object*
+L L(
+""*
+7
+8*"
+11K K("
+K	 K(
+""*õ
+12J	 J(Ä
+~
+J	 J(
+%0boolean"	__compare*
+J J(
+==*
+J	 J(
+domain.Alerta*%
+J J(
+
+objjava.lang.Object*
+10
+11*!
+1Y Y(;"
+Y Y(;
+"":#
+I I(!
+objjava.lang.ObjectB
+domain.AlertaHX

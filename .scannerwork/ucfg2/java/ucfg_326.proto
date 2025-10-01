@@ -1,0 +1,71 @@
+
+CbusinessLogic.BLFacadeImplementation#EskaeraList(I)Ljava/util/List;g
+[/home/lur/eclipse-workspace/Rides24/src/main/java/businessLogic/BLFacadeImplementation.java¨ ¨(#"1*†
+1
+© ©(‡
+„
+
+© ©(
+%0dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager|z
+
+© ©(
+
+%1void"dataAccess.DataAccess#open()V*9
+
+__unknown_file (
+
+%0dataAccess.DataAccess2open()‡
+„
+
+ª ª(#
+%2dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManagerÊÇ
+
+ª ª(6
+%3java.util.List"4dataAccess.DataAccess#EskaeraList(I)Ljava/util/List;*9
+
+__unknown_file (
+
+%2dataAccess.DataAccess*"
+
+__unknown_file (
+""2EskaeraList(I)b
+`
+
+ª ª(7
+itzulijava.util.List"__id*2
+
+__unknown_file (
+
+%3java.util.List‡
+„
+
+« «(
+%4dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager~|
+
+« «(
+
+%5void"dataAccess.DataAccess#close()V*9
+
+__unknown_file (
+
+%4dataAccess.DataAccess2close()"(
+
+¬ ¬(
+
+itzulijava.util.List: 
+
+__unknown_file (
+""B(&
+$businessLogic.BLFacadeImplementationH

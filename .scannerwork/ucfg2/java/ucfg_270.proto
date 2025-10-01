@@ -1,0 +1,33 @@
+
+3dataAccess.ObjectdbManagerServer#%field_initializer
+__unknown_file ("1*ø
+1 (”‘
+a
+W/home/lur/eclipse-workspace/Rides24/src/main/java/dataAccess/ObjectdbManagerServer.java) (/
+%0javax.swing.JPanel"javax.swing.JPanel²
+¯
+a
+W/home/lur/eclipse-workspace/Rides24/src/main/java/dataAccess/ObjectdbManagerServer.java% (1
+%1"javax.swing.JPanel#<init>()V*&
+ (
+
+%0javax.swing.JPanelÊ
+Ç
+a
+W/home/lur/eclipse-workspace/Rides24/src/main/java/dataAccess/ObjectdbManagerServer.java (24"
+ dataAccess.ObjectdbManagerServer"
+contentPanel"__id*&
+ (
+
+%0javax.swing.JPanelÖ
+Ó
+a
+W/home/lur/eclipse-workspace/Rides24/src/main/java/dataAccess/ObjectdbManagerServer.java   (E4"
+ dataAccess.ObjectdbManagerServer"
+objectDbpath"__id*2
+ (&$
+"src\\main\\resources\\objectdb.jar"w
+`
+W/home/lur/eclipse-workspace/Rides24/src/main/java/dataAccess/ObjectdbManagerServer.java ƒ(
+implicit returnB$"
+ dataAccess.ObjectdbManagerServer

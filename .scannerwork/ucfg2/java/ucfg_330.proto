@@ -1,0 +1,62 @@
+
+>businessLogic.BLFacadeImplementation#ErreserbarenRideKodea(I)Ig
+[/home/lur/eclipse-workspace/Rides24/src/main/java/businessLogic/BLFacadeImplementation.javaÃ Ã(!"1*ˆ
+1
+Ä Ä(‡
+„
+
+Ä Ä(
+%0dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager|z
+
+Ä Ä(
+
+%1void"dataAccess.DataAccess#open()V*9
+
+__unknown_file (
+
+%0dataAccess.DataAccess2open()‡
+„
+
+Å Å(
+%2dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManagerÄÁ
+
+Å Å(>	
+%3int"/dataAccess.DataAccess#ErreserbarenRideKodea(I)I*9
+
+__unknown_file (
+
+%2dataAccess.DataAccess*"
+
+__unknown_file (
+""2ErreserbarenRideKodea(I)‡
+„
+
+Æ Æ(
+%4dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businessLogic.BLFacadeImplementation"
+	dbManager~|
+
+Æ Æ(
+
+%5void"dataAccess.DataAccess#close()V*9
+
+__unknown_file (
+
+%4dataAccess.DataAccess2close()"
+
+Ç Ç(
+"": 
+
+__unknown_file (
+""B(&
+$businessLogic.BLFacadeImplementationHX
