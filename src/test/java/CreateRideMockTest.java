@@ -25,6 +25,7 @@ import org.mockito.MockitoAnnotations;
 import dataAccess.DataAccess;
 import domain.Driver;
 import domain.Ride;
+import domain.Traveler;
 import exceptions.RideAlreadyExistException;
 import exceptions.RideMustBeLaterThanTodayException;
 
@@ -89,9 +90,7 @@ public class CreateRideMockTest {
 		}	
 		try {
 					
-			 driver=new Driver(driverEmail,driverName);
-			 driver.addRide(rideFrom, rideTo, rideDate, 0, 0);
-			//configure the state through mocks 
+			
 	        Mockito.when(db.find(Driver.class, driver.getName())).thenReturn(driver);
 		
 			
