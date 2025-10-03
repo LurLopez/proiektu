@@ -34,7 +34,7 @@ import domain.Traveler;
 import exceptions.RideAlreadyExistException;
 import exceptions.RideMustBeLaterThanTodayException;
 
-public class AlertaSortuWhiteMockTest {
+public class AlertaSortuWhiteMockTest { //
 	
 	static DataAccess sut;
 	
