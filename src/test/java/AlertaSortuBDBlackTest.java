@@ -20,7 +20,7 @@ import dataAccess.DataAccess;
 import domain.Traveler;
 import testOperations.TestDataAccess;
 
-public class AlertaSortuBDBlackTest {
+public class AlertaSortuBDBlackTest { //a
 	static DataAccess sut=new DataAccess();
 	static TestDataAccess testDA=new TestDataAccess();
 	
