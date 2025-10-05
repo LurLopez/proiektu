@@ -240,12 +240,10 @@ public class CreateRideGUI extends JFrame {
 				// TODO Auto-generated catch block
 				jLabelMsg.setText(e1.getMessage());
 			} 
-			catch(NullPointerException e1) {
+			catch(NullPointerException | NumberFormatException e2) {
 				jLabelMsg.setText(ResourceBundle.getBundle("Etiquetas").getString("Errore.KotxerikEz"));
 			}
-			catch( NumberFormatException e2) {
-				jLabelMsg.setText(ResourceBundle.getBundle("Etiquetas").getString("Errore.KotxerikEz"));
-			}
+			
 
 		}
 	private String field_Errors() {

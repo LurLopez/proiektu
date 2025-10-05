@@ -139,7 +139,7 @@ public interface BLFacade  {
 	
 	@WebMethod public ArrayList ErreklamazioakKargatu();
 	
-	@WebMethod public ArrayList ErreklamazioakKargatuErabiltzaile(User u);
+	@WebMethod public List ErreklamazioakKargatuErabiltzaile(User u);
 	
 	
 	@WebMethod public void MezuaGehitu(User nork,User nori,String testua,Erreklamazio e);

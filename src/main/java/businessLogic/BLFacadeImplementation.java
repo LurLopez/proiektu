@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 import java.util.ResourceBundle;
+import java.util.logging.Logger;
 
 import javax.jws.WebMethod;
 import javax.jws.WebService;
@@ -30,16 +31,12 @@ import exceptions.RideAlreadyExistException;
 @WebService(endpointInterface = "businessLogic.BLFacade")
 public class BLFacadeImplementation  implements BLFacade {
 	DataAccess dbManager;
+	
+	private static final Logger logger = Logger.getLogger(BLFacadeImplementation.class.getName());
 
 	public BLFacadeImplementation()  {		
-		System.out.println("Creating BLFacadeImplementation instance");
-		
-		
-		    dbManager=new DataAccess();
-		    
-		//dbManager.close();
-
-		
+		logger.info("Creating BLFacadeImplementation instance");
+		dbManager=new DataAccess();
 	}
 	
     public BLFacadeImplementation(DataAccess da)  {
@@ -328,7 +325,7 @@ public class BLFacadeImplementation  implements BLFacade {
 		return itzuli;
 	}
 	
-	 public ArrayList ErreklamazioakKargatuErabiltzaile(User u) {
+	 public List ErreklamazioakKargatuErabiltzaile(User u) {
 		 dbManager.open();
 			ArrayList<Erreklamazio> itzuli =dbManager.ErreklamazioakKargatuErabiltzaile(u);
 			dbManager.close();

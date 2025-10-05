@@ -232,7 +232,7 @@ public class ErreklamazioakIkusiGUI extends JFrame {
 
 	
 	public void Erreklamazioakgehitu(boolean nork,User norkuser) {
-		erreklamazioak=facade.ErreklamazioakKargatuErabiltzaile(norkuser);
+		erreklamazioak=(ArrayList<Erreklamazio>) facade.ErreklamazioakKargatuErabiltzaile(norkuser);
 		System.out.println(erreklamazioak.size() +"aaaa");
 		if(erreklamazioak!=null) {
 		if(nork) {

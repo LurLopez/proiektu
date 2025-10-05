@@ -145,11 +145,6 @@ public class ErregistratuGUI extends JFrame {
 		
 		JRadioButton rdbtnGIDARI = new JRadioButton(ResourceBundle.getBundle("Etiquetas").getString("Driver"));
 		fareButtonGroup.add(rdbtnGIDARI);
-		rdbtnGIDARI.addActionListener(new ActionListener() {
-			public void actionPerformed(ActionEvent arg0) {
-				
-			}
-		});
 		rdbtnGIDARI.setBounds(132, 40, 76, 25);
 		contentPane.add(rdbtnGIDARI);
 		
@@ -163,7 +158,7 @@ public class ErregistratuGUI extends JFrame {
 				}
 			}
 		});
-		rdbtnBIDAIARI.setBounds(203, 40, 130, 25);
+		rdbtnBIDAIARI.setBounds(210, 40, 130, 25);
 		contentPane.add(rdbtnBIDAIARI);
 		
 		JLabel lblErrorea = new JLabel("");

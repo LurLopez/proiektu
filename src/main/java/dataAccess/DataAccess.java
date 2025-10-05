@@ -42,7 +42,7 @@ import gui.AdministratzaileaGUI;
 public class DataAccess  {
 	private  EntityManager  db;
 	private  EntityManagerFactory emf;
-
+	private static final String ETIKETAK = "Etiquetas";
 
 	ConfigXML c=ConfigXML.getInstance();
 
