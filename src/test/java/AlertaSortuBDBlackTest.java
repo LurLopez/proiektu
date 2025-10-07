@@ -31,7 +31,7 @@ public class AlertaSortuBDBlackTest { //aa
 	@Test
 	public void test1() {
 		String nondik="Oiartzun";
-		String nora="Ondarroa";
+		String nora="Bilbo";
 		
 		sut.open();
 		Traveler t=(Traveler) sut.register("Lur", "pasahitza_1", "Traveler", "lurlopez13@gmail.com");
