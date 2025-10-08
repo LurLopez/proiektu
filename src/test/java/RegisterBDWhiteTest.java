@@ -25,7 +25,7 @@ public class RegisterBDWhiteTest {
 	public void test1() {
 		
 		
-		String izena = "Lur";
+		String izena = "Lur10";
 		String pasahitza ="pasahitza_1";
 		String type ="Driver";
 		String mail ="ander@gmail";
@@ -41,9 +41,7 @@ public class RegisterBDWhiteTest {
 			sut.close();
 			
 			if(u != null ) {
-				sut.open();
-				sut.erabiltzaileaEzabatu(u);
-				sut.close();
+				
 				fail();
 			}
 			else {
@@ -54,7 +52,9 @@ public class RegisterBDWhiteTest {
 			
 		}
 		finally {
-
+			sut.open();
+			sut.erabiltzaileaEzabatu(t);
+			sut.close();
 			
 			
 		}

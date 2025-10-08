@@ -1,0 +1,109 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-08 10:02:58 #1 store] 
+Database '/home/lur/Lur/EHU/3.URTEA/SI2/GITHUB/proiektu/proiektu/src/main/resources/rides.temp' is opened by 6377@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-08 10:03:04 #1 store] 
+Database '/home/lur/Lur/EHU/3.URTEA/SI2/GITHUB/proiektu/proiektu/src/main/resources/rides.temp' has been recovered (tr. 1-2)
+
+[2025-10-08 10:03:04 #2 store] 
+Database '/home/lur/Lur/EHU/3.URTEA/SI2/GITHUB/proiektu/proiektu/src/main/resources/rides.temp' is opened by 6419@lur-ASUS-TUF-Gaming-F15-FX506HF-FX506HF
+
+[2025-10-08 10:03:04 #3 type.registry] 
+New type domain.User
+
+[2025-10-08 10:03:04 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-10-08 10:03:04 #5 type.registry] 
+New type domain.Erreklamazio
+
+[2025-10-08 10:03:04 #6 type.registry] 
+New type java.util.ArrayList<domain.Erreklamazio>
+
+[2025-10-08 10:03:04 #7 type.registry] 
+New type domain.Balorazioa
+
+[2025-10-08 10:03:04 #8 type.registry] 
+New type java.util.ArrayList<domain.Balorazioa>
+
+[2025-10-08 10:03:04 #9 type.registry] 
+New type domain.Mugimendua
+
+[2025-10-08 10:03:04 #10 type.registry] 
+New type domain.Ride
+
+[2025-10-08 10:03:04 #11 type] 
+Type domain.Erreklamazio is not enhanced.
+
+[2025-10-08 10:03:04 #12 type.registry] 
+New type domain.Mezua
+
+[2025-10-08 10:03:04 #13 type.registry] 
+New type java.util.ArrayList<domain.Mezua>
+
+[2025-10-08 10:03:04 #14 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-10-08 10:03:04 #15 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-10-08 10:03:04 #16 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-08 10:03:04 #17 type.registry] 
+New type domain.Driver
+
+[2025-10-08 10:03:04 #18 type] 
+Type domain.Mezua is not enhanced.
+
+[2025-10-08 10:03:04 #19 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-08 10:03:04 #20 type.registry] 
+New type domain.Kotxe
+
+[2025-10-08 10:03:04 #21 type] 
+Type domain.Kotxe is not enhanced.
+
+[2025-10-08 10:03:04 #22 type.registry] 
+New type domain.Traveler
+
+[2025-10-08 10:03:04 #23 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-08 10:03:04 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-10-08 10:03:04 #25 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-10-08 10:03:04 #26 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-10-08 10:03:04 #27 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2025-10-08 10:03:04 #28 type.registry] 
+New type domain.Alerta
+
+[2025-10-08 10:03:04 #29 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-10-08 10:03:05 #30 type.registry] 
+New type com.objectdb.o.LMT
+
+[2025-10-08 10:03:05 #31 type.registry] 
+New type com.objectdb.o.VAL
+
+[2025-10-08 10:03:05 #32 type.registry] 
+New type com.objectdb.o.RFV
+
+[2025-10-08 10:03:05 #33 type.registry] 
+New type domain.Erreserba
+
+[2025-10-08 10:03:05 #34 type] 
+Type domain.Erreserba is not enhanced.
+
