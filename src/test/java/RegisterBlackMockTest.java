@@ -65,8 +65,7 @@ public class RegisterBlackMockTest {
 		Traveler t=new Traveler(mail,izena,pasahitza);
 		
 		try {
-			
-			Mockito.when(db.find(User.class, izena)).thenReturn(null);
+			Mockito.when(db.find(User.class, null)).thenReturn(null);
 			
 			sut.open();
 			User j = sut.register(izena, pasahitza, mota, mail);
