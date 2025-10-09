@@ -51,7 +51,7 @@
 		<sonar.organization>lurlopez</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.projectKey>lurlopez_proiektu</sonar.projectKey>
-		<sonar.login>d4230e75bc23b0bb16e30d3c83c65a52ae75cc04</sonar.login>
+		<sonar.login>5a308de075e480e567994dc25711b34f685c3d41</sonar.login>
 	</properties>
 
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
