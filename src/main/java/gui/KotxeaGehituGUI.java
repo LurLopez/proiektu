@@ -119,7 +119,8 @@ public class KotxeaGehituGUI extends JFrame {
 				int Eserlekuak=(int) EserlekuakComboBox.getSelectedItem();
 				
 				try {
-				facade.KotxeaGehitu(Marka,Modeloa,Matrikula,Eserlekuak,driver);
+				Kotxe k=new Kotxe(Eserlekuak,Matrikula,Marka,Modeloa);
+				facade.KotxeaGehitu(k,driver);
 				errorea.setText("");
 				}
 				catch(Exception e) {

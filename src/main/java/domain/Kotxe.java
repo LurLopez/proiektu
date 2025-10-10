@@ -1,5 +1,7 @@
 package domain;
 
+import java.util.ResourceBundle;
+
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
@@ -20,14 +22,18 @@ public class Kotxe {
 	
 	
 	
-	public Kotxe(int e,String mat,String mar,String mode) {
+	public Kotxe(int e,String mat,String mar,String mode) throws Exception {
+		if(!mar.isEmpty()&&!mode.isEmpty()&&!mat.isEmpty()) {
 		this.eserlekukop=e;
 		this.matrikula=mat;
 		this.marka=mar;
 		this.modeloa=mode;
 	}
+	else { throw new Exception(ResourceBundle.getBundle("Etiquetas").getString("Errore.BalioaFalta"));
+	}
 	
-	
+	}	
+		
 	public String toString() {
 		return this.matrikula +";"+this.eserlekukop +";" + this.marka +";"+this.modeloa+";";
 	}

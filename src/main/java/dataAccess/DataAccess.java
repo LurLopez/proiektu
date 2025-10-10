@@ -538,49 +538,22 @@ public void open(){
 	
 	
 	
-	public boolean KotxeaGehitu(String Marka,String Modeloa,String Matrikula,int Eserlekuak,Driver d)throws Exception {
-		
-		if(!Marka.isEmpty()&&!Modeloa.isEmpty()&&!Matrikula.isEmpty()) {
-			
-				
-				
-				
-				Kotxe k=db.find(Kotxe.class, Matrikula);
+	public boolean KotxeaGehitu(Kotxe kotxea,Driver d)throws Exception {
+		//String Marka,String Modeloa,String Matrikula,int Eserlekuak,
+				Kotxe k=db.find(Kotxe.class, kotxea.getMatrikula());
 				if(k==null) {
-				Kotxe kotxe=new Kotxe(Eserlekuak,Matrikula,Marka,Modeloa);
 				db.getTransaction().begin();
-				db.persist(kotxe);
-				d.KotxeaGehitu(kotxe);
-				
+				db.persist(kotxea);
+				d.KotxeaGehitu(kotxea);
 				db.merge(d);
-				
-				
-				
 				Driver dr=db.find(Driver.class, d.getName());
-				
-				
-				
 				db.getTransaction().commit();
 				return true;
 				}
 				else {
 					throw new Exception(ResourceBundle.getBundle("Etiquetas").getString("Errore.MatrikulaDagoenekoExistitu"));
-					
 				}
-			
-		}
-		else {
-			throw new Exception(ResourceBundle.getBundle("Etiquetas").getString("Errore.BalioaFalta"));
-			
-		}
-		
-		
-	
-		
-		
 	}
-	
-	
 	public User MugimenduaGehitu(User u,float kantitatea, int mezua) {
 
 		Mugimendua m=new Mugimendua(kantitatea,mezua);

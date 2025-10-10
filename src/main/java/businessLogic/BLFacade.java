@@ -105,7 +105,7 @@ public interface BLFacade  {
 	
 	@WebMethod public int ErreserbarenRideKodea(int kodeerreserba); 
 	
-	@WebMethod public boolean KotxeaGehitu(String Marka,String Modeloa,String Matrikula,int Eserlekuak,Driver d) throws Exception; 
+	@WebMethod public boolean KotxeaGehitu(Kotxe k,Driver d) throws Exception; 
 	
 	@WebMethod public User ErabiltzaileaFreskatu(User erabiltzailea); 
 	

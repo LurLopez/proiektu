@@ -199,9 +199,9 @@ public class BLFacadeImplementation  implements BLFacade {
 	
 	
 	
-	public boolean KotxeaGehitu(String Marka,String Modeloa,String Matrikula,int Eserlekuak,Driver d) throws Exception {
+	public boolean KotxeaGehitu(Kotxe k,Driver d) throws Exception {
 		dbManager.open();
-		boolean erantzuna=dbManager.KotxeaGehitu(Marka,Modeloa,Matrikula,Eserlekuak,d);
+		boolean erantzuna=dbManager.KotxeaGehitu(k,d);
 		dbManager.close();
 		return erantzuna;
 	}
