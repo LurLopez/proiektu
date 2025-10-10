@@ -386,13 +386,13 @@ public class BLFacadeImplementation  implements BLFacade {
 	
 	public void travelerBaloratu(int erreserbakode) {
 		dbManager.open();
-		dbManager.travelerBaloratu(erreserbakode);
+		dbManager.userraBaloratu("traveler",erreserbakode);
 		dbManager.close();
 	}
 	
 	public void driverBaloratu(int erreserbakode) {
 		dbManager.open();
-		dbManager.driverBaloratu(erreserbakode);
+		dbManager.userraBaloratu("driver",erreserbakode);
 		dbManager.close();
 	}
 	

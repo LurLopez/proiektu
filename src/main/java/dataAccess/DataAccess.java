@@ -647,31 +647,24 @@ public void open(){
 	}
 
 	public List<Ride> GetAlertaBatenBidaiak(Alerta a) {
-
-		List<Ride> badago = new ArrayList<Ride>();
 		TypedQuery<Ride> query = db.createQuery("SELECT r FROM Ride r", Ride.class);
 		List<Ride> results = query.getResultList();
-		String nora = a.getNora();
-		String noraTxikiz = nora.toLowerCase();
-		String nondik = a.getNondik();
-		String nondikTxikiz = nondik.toLowerCase();
-		String bnora;
-		String bnoraTxikiz;
-		String bnondik;
-		String bnondikTxikiz;
+		String noraTxikiz = a.getNora().toLowerCase();
+		String nondikTxikiz =a.getNondik().toLowerCase();
 		Date adata = a.getData();
+		return GetAlertaBatenBidaiakFor(noraTxikiz,nondikTxikiz,adata,results);
+	}
+	
+	public List<Ride> GetAlertaBatenBidaiakFor(String noraTxikiz,String nondikTxikiz,Date adata,List<Ride> results){
+		List<Ride> itzuli = new ArrayList<Ride>();
 		for(Ride r : results) {
-			bnora = r.getTo();
-			bnoraTxikiz = bnora.toLowerCase();
-			bnondik = r.getFrom();
-			bnondikTxikiz = bnondik.toLowerCase();
+			String bnoraTxikiz = r.getTo().toLowerCase();
+			String bnondikTxikiz = r.getFrom().toLowerCase();
 			if(bnoraTxikiz.equals(noraTxikiz) && bnondikTxikiz.equals(nondikTxikiz) && adata.equals(r.getDate())) {
-				badago.add(r);
+				itzuli.add(r);
 			}
 		}
-		
-		
-		return badago;
+		return itzuli;
 	}
 	
 	public boolean alertakKonprobatu(Traveler t) {
@@ -796,27 +789,29 @@ public void open(){
 		public void erabiltzaileaEzabatu(User d) {
 			db.getTransaction().begin();
 			User erabiltzaile = db.find(User.class, d.getErabiltzaileIzena());
-			if(erabiltzaile instanceof Traveler) {
-				List<Alerta> alertaList = GetTravelerBatenAlertak((Traveler) d);
-				for(Alerta a : alertaList) {
-					db.remove(a);
-				}
-				List<Erreserba> erreserbaList = GetTravelerBatenErreserbak((Traveler) d);
-				db.getTransaction().commit();
-				for(Erreserba e : erreserbaList) {
-					ErreserbaEzabatu(e.getId());
-				}
-				db.getTransaction().begin();
-			}
+			db.getTransaction().commit();
+			if(erabiltzaile instanceof Traveler) travelerraEzabatu((Traveler) d);
 			
-			
-			    
+			db.getTransaction().begin();
 		    if (erabiltzaile != null) {
 		        db.remove(erabiltzaile);
 		    }
 			db.getTransaction().commit();
-			
 		}
+		
+		public void travelerraEzabatu(Traveler t) {
+			db.getTransaction().begin();
+			List<Alerta> alertaList = GetTravelerBatenAlertak(t);
+			for(Alerta a : alertaList) {
+				db.remove(a);
+			}
+			List<Erreserba> erreserbaList = GetTravelerBatenErreserbak(t);
+			for(Erreserba e : erreserbaList) {
+				ErreserbaEzabatu(e.getId());
+			}
+			db.getTransaction().commit();
+		}
+		
 		
 		public void ErreserbaEzabatu(int Id) {
 			db.getTransaction().begin();
@@ -856,19 +851,17 @@ public void open(){
 				return balorazioak;
 			}
 			
-			public void travelerBaloratu(int erreserbakode) {
+			public void userraBaloratu(String nork,int erreserbakode) {
 				db.getTransaction().begin();
 				Erreserba e=db.find(Erreserba.class, erreserbakode);
-				e.setTbaloratua(true);
+				
+				if(nork.equals("traveler")) e.setTbaloratua(true);
+				else if(nork.equals("driver")) e.setDbaloratua(true);
+				
 				db.getTransaction().commit();
 			}
 			
-			public void driverBaloratu(int erreserbakode) {
-				db.getTransaction().begin();
-				Erreserba e=db.find(Erreserba.class, erreserbakode);
-				e.setDbaloratua(true);
-				db.getTransaction().commit();
-			}
+
 			
 			 public boolean isTravelerBaloratua(int erreserbakode) {
 				 return db.find(Erreserba.class, erreserbakode).getTbaloratua();
