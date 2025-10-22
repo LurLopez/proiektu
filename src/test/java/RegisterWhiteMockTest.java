@@ -25,7 +25,7 @@ import dataAccess.DataAccess;
 import domain.Alerta;
 import domain.Traveler;
 import domain.User;
-
+//
 public class RegisterWhiteMockTest {
 
 static DataAccess sut;
