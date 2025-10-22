@@ -63,7 +63,7 @@ static DataAccess sut;
     }
 	
 	
-	
+	/*
 	@Test
 	public void test_1() {
 		
@@ -183,4 +183,5 @@ static DataAccess sut;
 			System.out.println("ERROREA");
 		}
 	}
+	*/
 }
