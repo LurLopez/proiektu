@@ -53,7 +53,7 @@ public class RegisterBlackMockTest {
 
 		
     }
-	/*
+	
 	@Test
 	public void test_1() {
 		
@@ -236,5 +236,5 @@ public class RegisterBlackMockTest {
 			System.out.println("ERROREA");
 		}
 	}
-*/
+
 }

@@ -19,7 +19,7 @@ public class RegisterBDWhiteTest {
 	
 	
 	
-	/*
+	
 	
 	@Test
 	public void test1() {
@@ -173,5 +173,5 @@ public class RegisterBDWhiteTest {
 		}
 			
 	}
-	*/
+	
 }

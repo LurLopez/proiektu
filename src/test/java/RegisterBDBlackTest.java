@@ -12,7 +12,7 @@ public class RegisterBDBlackTest {
 	static DataAccess sut=new DataAccess();
 	static TestDataAccess testDA=new TestDataAccess();
 	
-/*
+
 	@Test
 	public void test_1() {
 		
@@ -203,6 +203,6 @@ public class RegisterBDBlackTest {
 		}
 	}
 	
-*/
+
 }
 
